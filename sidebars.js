@@ -24,7 +24,12 @@ const sidebars = {
       type: 'category',
       label: 'The QR Link Creation',
       items: ['the_qr_link_creation/the_qr_link_creation'],
-    },		
+    },	
+    {
+      type: 'category',
+      label: 'The QR Link Design',
+      items: ['the_qr_link_design/the_qr_link_design','the_qr_link_design/samples', 'the_qr_link_design/tips'],
+    },	
   ],
    
    

@@ -26,7 +26,7 @@ At first you need to selelc the type of QR code you want to create, for example 
 
 ![image](https://user-images.githubusercontent.com/54523080/183554252-c215e9a0-54b7-4c86-aa52-071fc43656f3.png)
 
-Then you will need to enter some information according to the type of QR you want to create. For example, in the case of QR for linking to a website URL you just need to enter the URL. You can find the explanation about the data to be define for every type of QR code in the section [How to customize different types of QR codes](#How_to_customize_different_types_of_QR_codes)
+Then you will need to enter some information according to the type of QR you want to create. For example, in the case of QR for linking to a website URL you just need to enter the URL. You can find the explanation about the data to be define for every type of QR code in the section [How to create different types of QR codes](#how-to-create-different-types-of-qr-codes)
 
 ![image](https://user-images.githubusercontent.com/54523080/183499151-32785554-3483-46a1-b0b7-e1194364c095.png)
 
@@ -70,7 +70,11 @@ When you select a type of frame, you can also customize the color for both the f
 
 ![image](https://user-images.githubusercontent.com/54523080/183744950-4e8805a7-d9b1-43a9-b9f5-9af6e415c05a.png)
 
-The Code style section allows you to customize the shape and color of the four elements related to the code: the code itself, the corners, the corner dots and the background
+The Code style section allows you to customize the shape and color of the four elements related to the code: the code itself, the corners, the corner dots and the background. The location of this four elements is shown below.
+
+![image](https://user-images.githubusercontent.com/54523080/184240689-f96aab00-987d-4292-9072-f754950424d6.png)
+
+And the picture below shows the values we set in the QR code used as an example.
 
 ![image](https://user-images.githubusercontent.com/54523080/183527688-7b95bf09-5d8c-46fc-bce9-a3795c07d44a.png)
 
@@ -124,9 +128,9 @@ After pressing the Download PDF button the pdf file is saved.
 
 ![image](https://user-images.githubusercontent.com/54523080/183532266-ea9222b7-6a45-431c-91c4-15a42185c0d7.png)
 
-### How to customize different types of QR codes
+### How to create different types of QR codes
 
-The section [Choose the type of QR Code](#Choose_the_type_of_QR_Code) explains that the first step for creating a QR code is to select the type of QR code you want to generate. Depending on the type of QR code you must enter different information related to the code. The type of QR code for a website URL was explained before. Now you can check the details about creating other types of QR codes.
+The section [Choose the type of QR Code](#choose-the-type-of-qr-code) explains that the first step for creating a QR code is to select the type of QR code you want to generate. Depending on the type of QR code you must enter different information related to the code. The type of QR code for a website URL was explained before. Now you can check the details about creating other types of QR codes.
 
 #### Email
 
@@ -193,8 +197,6 @@ After selecting the type WiFi you need to enter a value for every field:
 After selecting the type Twitter you need to enter a value for every field:
 
 - Text:  the tweet content.
-
-
 
 #### Whatsapp
 
