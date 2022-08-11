@@ -20,67 +20,11 @@ const sidebars = {
  
   tutorialSidebar: [
     'intro', 
-	'basic_integration', 
     {
       type: 'category',
-      label: 'Installation',
-      items: ['installation/installation', 'installation/docker_composer','installation/alternative'],
+      label: 'The QR Link Creation',
+      items: ['the_qr_link_creation/the_qr_link_creation'],
     },		
-    {
-      type: 'category',
-      label: 'Administration',
-      items: ['administration/administration', 'administration/tenants'],
-    },
-	{
-      type: 'category',
-      label: 'Security',
-      items: ['security/security', 'security/authorization', 'security/authorization_definition', 'security/authorization_clients', 'security/authorization_providers', 'security/authorization_concepts'],
-    },
-	{
-      type: 'category',
-      label: 'Gateway',
-      items: ['gateway/gateway', 'gateway/connection', 'gateway/resource_paths'],
-    },	
-	{
-      type: 'category',
-      label: 'Data',
-      items: ['data/data', 'data/document_types', 'data/file_types'],
-    },
-	{
-      type: 'category',
-      label: 'Workflows',
-      items: ['workflows/workflows', 'workflows/flows', 'workflows/import_flows','workflows/converter_flows','workflows/export_flows','workflows/data_events', 'workflows/schedulers', 'workflows/notification_flows'],
-    },	
-	{
-      type: 'category',
-      label: 'Transformations',
-      items: ['transformations/transformations', 'transformations/parsers', 'transformations/converters', 'transformations/templates', 'transformations/updaters'],
-    },	
-	{
-      type: 'category',
-      label: 'Compute',
-      items: ['compute/compute', 'compute/algorithms', 'compute/snippets', 'compute/applications'],
-    },
-	{
-      type: 'category',
-      label: 'Integrations',
-      items: ['integrations/integrations', 'integrations/collections', 'integrations/shared_collections', 'integrations/connector_factory'],
-    },	
-	{
-      type: 'category',
-      label: 'Connector Factory',
-      items: ['connector_factory/connector_factory', 'connector_factory/creating_a_new_connector_app', 'connector_factory/understanding_the_connector_app_elements', 'connector_factory/detailing_and_editing_the_connector_app_elements', 'connector_factory/incoming_webhooks', 'connector_factory/understanding_the_incoming_webhooks_elements', 'connector_factory/recipes', 'connector_factory/creating_a_new_recipe', 'connector_factory/understanding_the_recipe_elements'],
-    },		
-	{
-      type: 'category',
-      label: 'Monitors',
-      items: ['monitors/monitors', 'monitors/system_notifications', 'monitors/tasks'],
-    },		
-	{
-      type: 'category',
-      label: 'Generic Elements',
-      items: ['generic/generic_action_form', 'generic/generic_menu_options_'],
-    },
   ],
    
    

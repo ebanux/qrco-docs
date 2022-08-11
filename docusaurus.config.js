@@ -6,16 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Cenit IO - Docs',
+  title: 'The QR Link - Docs',
   staticDirectories: ['public', 'static'],
-  tagline: 'Open iPaaS',
-  url: 'https://docs.cenit.io',
+  tagline: 'Solution of Ebanux.com',
+  url: 'https://docs.theqr.link',
   baseUrl: '/',
   onBrokenLinks: 'ignore', //'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.svg',
-  organizationName: 'cenit-io', // Usually your GitHub org/user name.
-  projectName: 'cenit-docs', // Usually your repo name.
+  favicon: 'img/favicon.png',
+  organizationName: 'ebanux', // Usually your GitHub org/user name.
+  projectName: 'qrco-docs', // Usually your repo name.
 
   presets: [
     [
@@ -24,11 +24,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/cenit-io/cenit-docs/edit/master/',
+          editUrl: 'https://github.com/ebanux/qrco-docs/edit/master/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/cenit-io/cenit-docs/edit/master/',
+          editUrl: 'https://github.com/ebanux/qrco-docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -41,7 +41,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Cenit I0 - Docs',
+        title: 'The QR Link - Docs',
         // logo: {
         //   alt: 'Cenit I0 - Docs Logo',
         //   src: 'img/logo2.svg',
@@ -57,7 +57,7 @@ const config = {
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/cenit-io/cenit-docs',
+            href: 'https://github.com/ebanux/qrco-docs',
             label: 'GitHub',
             position: 'right',
           },
