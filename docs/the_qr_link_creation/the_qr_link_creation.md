@@ -194,7 +194,7 @@ After selecting the type Twitter you need to enter a value for every field:
 
 - Text:  the tweet content.
 
-IMAGE HERE: pending to change the twitter view.
+
 
 #### Whatsapp
 
