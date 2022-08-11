@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Cenit IO Tutorial - 30min ⏱️
+            The QR Link Tutorial - 30min ⏱️
           </Link>
         </div>
       </div>
