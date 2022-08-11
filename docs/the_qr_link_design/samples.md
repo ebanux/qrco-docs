@@ -1,6 +1,6 @@
 # QR Code Samples
 
-The section [Customize your QR Codes](the_qr_link_creation/the_qr_link_creation.md#Customize_your_QR_Codes)  explains the options for customizing your QR code. This section shows some QR code samples obtained as a result of changing the different options in the QR Editor.  In all cases the frame was set to none and the background is white, but we tried different values for the other parameters, as explained in every case.
+The section [Customize your QR Codes](the_qr_link_creation/the_qr_link_creation.md#customize-your-qr-codes) explains the options for customizing your QR code. This section shows some QR code samples obtained as a result of changing the different options in the QR Editor.  In all cases the frame was set to none and the background is white, but we tried different values for the other parameters, as explained in every case.
 
 The first example shows a QR code with code rounded, corner squared and corner dot rounded (same as code). The code and corner are black but the corner dot is red.
 
