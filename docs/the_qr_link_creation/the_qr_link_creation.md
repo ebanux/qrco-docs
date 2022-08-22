@@ -56,49 +56,57 @@ For customizing the QR code, press the QR Editor button at the bottom right.
 
 ![image](https://user-images.githubusercontent.com/54523080/185217963-17c3cad2-93d1-4852-ae55-84619fb6d0ab.png)
 
-After pressing the QR Editor button, the QR Designar view is shown. The frames section allows you to decide the type of frame surrounding the code. The picture below shows a code with no frame.
+After pressing the QR Editor button, the QR Designar view is shown. The Code style section allows you to customize the shape and color of the four elements related to the code: the code itself, the corners, the corner dots and the background. The location of this four elements is shown below.
 
-![image](https://user-images.githubusercontent.com/54523080/185218201-0590588d-c534-4893-b102-2ff34e137814.png)
+![Code design](https://user-images.githubusercontent.com/54523080/185813016-2a267a90-cd04-4c56-8cb6-096306ad501c.jpg)
+
+The picture below shows the values we set in the QR code used as an example.
+
+![image](https://user-images.githubusercontent.com/54523080/185813078-592c1742-5ba4-4e25-8d48-32a706c43fa1.png)
+
+
+
+The picture above shows the three corners in the same color and the three corner dots in the same color. However, you can enable different colors for every corner or/and different colors for every corner dot by pressing the switch button Distinct color. The picture below shows the process of setting different colors for the corners. For setting different colors to the corners dot, the process is similar, you just need to enable the switch button Distinc colors associated to the corner dots. Setting different colors for every corner and corner dot could be used to gain the user attention, but you should use the feature carefully to avoid a lack of uniformity in the design.
+
+![image](https://user-images.githubusercontent.com/54523080/185814730-6b64a042-7f4a-424c-948f-6a99cc0f2329.png)
+
+
+
+The example of code shows a background with solid color in white, but you can also set a bakground image by changing the bakground type to image, as shown below.  You should use the background image feature carefully because a the image could introduce noises in the code and turn it unreadable.
+
+![image](https://user-images.githubusercontent.com/54523080/185815158-50a5e91c-1937-4fb4-abef-4cfdc22afc91.png)
+
+The frames section allows you to decide the type of frame surrounding the code. The picture below shows a code with no frame.
+
+![image](https://user-images.githubusercontent.com/54523080/185815277-50f6634f-3892-44f2-830c-408779025cd7.png)
 
 The picture below show the result of selecting a simple frame.
 
-![image](https://user-images.githubusercontent.com/54523080/185218666-b6236e22-29a1-4733-9d31-0e5355b67994.png)
+![image](https://user-images.githubusercontent.com/54523080/185815300-8d48afc2-4b1a-43c4-a5ed-d906995ba62d.png)
 
 Some types of frame contains both a frame and a call to action text, like the one in the picture below
 
-![image](https://user-images.githubusercontent.com/54523080/185219578-3bff8352-d917-4b11-8632-268181ed3216.png)
+![image](https://user-images.githubusercontent.com/54523080/185815322-1f5b9e72-8f9b-423d-a572-0b09fb858a01.png)
 
 And you can select other types of frames with a more creative design, as shown below. Since it's a design related to the add to cart action, we are not using it in the further examples.
 
-![image](https://user-images.githubusercontent.com/54523080/185220079-8021aa1b-0c8e-404e-adca-984e36538538.png)
+![image](https://user-images.githubusercontent.com/54523080/185815354-893b7e22-6980-4b2b-a450-ae32d411f7ff.png)
 
 When you select a type of frame, you can also customize the color for both the frame and the text. The text can be also edited, we set "SCAN ME" in the case of the example below. The "Text up" switch button allows to choose between placing the text above or bellow the code.
 
-![image](https://user-images.githubusercontent.com/54523080/185221362-307ddc3c-4a76-432d-873f-2b76c74704bc.png)
-
-The Code style section allows you to customize the shape and color of the four elements related to the code: the code itself, the corners, the corner dots and the background. The location of this four elements is shown below.
-
-![image](https://user-images.githubusercontent.com/54523080/184240689-f96aab00-987d-4292-9072-f754950424d6.png)
-
-And the picture below shows the values we set in the QR code used as an example.
-
-![image](https://user-images.githubusercontent.com/54523080/185223399-1f35ba1e-514d-4ca4-8fc8-29a8d82e3261.png)
-
-The picture above shows a background with solid color in white, but you can also set a bakground image by changing the bakground type to image, as shown below.  You should use the background image feature carefully because a the image could introduce noises in the code and turn it unreadable.
-
-![image](https://user-images.githubusercontent.com/54523080/185223633-6b52e51c-04b3-47ee-9384-ec4533f3823f.png)
+![image](https://user-images.githubusercontent.com/54523080/185815474-b6494b71-f437-4be8-affa-4daf63295eb7.png)
 
 The logo section allows to select the logo to be set in the center of the code. The default option is No Logo.
 
-![image](https://user-images.githubusercontent.com/54523080/185224085-950594b2-6dd5-4213-9685-6249df35e3d7.png)
+![image](https://user-images.githubusercontent.com/54523080/185815505-38d89167-2956-49ff-a13e-e24930a5c9a6.png)
 
 The picture below shows a design where a predefined logo has been selected.
 
-![image](https://user-images.githubusercontent.com/54523080/185224315-d5d49daf-219a-41b5-afb4-4dc7b213fadf.png)
+![image](https://user-images.githubusercontent.com/54523080/185815555-37bf2f26-4343-434d-b9f8-3d54d339ca83.png)
 
 However you can select a customized image by pressing the Upload button. In the example below the Cenit IO logo has been selected.
 
-![image](https://user-images.githubusercontent.com/54523080/185226936-cd6f9100-440a-4deb-b163-713a22d17d21.png)
+![image](https://user-images.githubusercontent.com/54523080/185815602-87db37b7-8b98-484b-bbb7-fc80ab54cb37.png)
 
 ### Checking for Readability
 
@@ -110,53 +118,53 @@ When designing a QR code it's important to test the code to check its behavior i
 
 The best way of checking the code's readability is to use different scan devices and apps and try to read it with every device and app. However, it's better if we let you now the probability of your code to be readable or not. So, anytime in the designing process, you can press the button Check for Readability  as shown below.
 
-![image](https://user-images.githubusercontent.com/54523080/185233696-60d9f704-a90c-41f1-a037-6b2258d9fe18.png)
+![image](https://user-images.githubusercontent.com/54523080/185815666-af5cfb4e-abc8-44ab-914b-c14cc1d17d62.png)
 
 After pressing the button, a flash notification announces whether the code is probably readable or not. In the case of the example the notification lets you know the code has a high chance to be readable as you can see in the picture below.
 
-![image](https://user-images.githubusercontent.com/54523080/185236376-432285f1-f2be-45cb-b78b-f5dcf292c24d.png)
+![image](https://user-images.githubusercontent.com/54523080/185815712-1bc4a002-a449-4bc7-aa3c-62d8ed4d22ce.png)
 
-If we change the background color and try again, the notification alerts that there is a low chance to read that code well, as you can see in the picture below. So, you should take care about the contrast between the code and the background.
+If we change the background color and press the button Check Readability again, the notification alerts that there is a low chance to read that code well, as you can see in the picture below. So, you should take care about the contrast between the code and the background.
 
-![image](https://user-images.githubusercontent.com/54523080/185237250-a4042bf4-289d-4d33-839d-2bc26a9c0e62.png)
+![image](https://user-images.githubusercontent.com/54523080/185815761-699d3231-e49e-47f0-8095-5360cc6d9b12.png)
 
 The design in the picture above looks like unpleasant and most of all, it's probably unreadable. So if we change the background color to white and check for readability again, we will see the high probability notification again, as shown below.
 
-![image](https://user-images.githubusercontent.com/54523080/185239428-fd83ce4a-81ed-4fd5-b795-b4a326a7a466.png)
+![image](https://user-images.githubusercontent.com/54523080/185815813-b005ad1d-b7a0-4660-8805-b65b2da9c1c9.png)
 
 ### Download and Share it
 
 After completing the customization you can press the Download button to export the QR code to be shared later.
 
-![image](https://user-images.githubusercontent.com/54523080/185239643-79f3c7b9-68ce-4e5a-9f7e-f58f37172877.png)
+![image](https://user-images.githubusercontent.com/54523080/185818584-a21d6677-525f-4102-b446-75f76e4a0664.png)
 
 If you select PNG the code can be download as an image that can be shared by sending  it as an email attachment or in a chat conversation, etc.
 
-![image](https://user-images.githubusercontent.com/54523080/185240031-ce07335e-c050-4bf1-9afa-2707398007c2.png)
+![image](https://user-images.githubusercontent.com/54523080/185818690-b5a04399-1ca9-4c54-b7f4-e5dc6dcfe83a.png)
 
 After selecting the PNG type, the code is automatically saved as shown below. 
 
-![image](https://user-images.githubusercontent.com/54523080/185240290-f26cda00-0f9a-4279-8401-50f1b002c886.png)
+![image](https://user-images.githubusercontent.com/54523080/185818725-4b95a5c3-11f9-4e53-89b0-dafcf72f3afb.png)
 
 You should use the SVG type if you want to embed the code in a webpage.
 
-![image](https://user-images.githubusercontent.com/54523080/185240494-8bb07baa-2604-42cb-a62c-55302320b457.png)
+![image](https://user-images.githubusercontent.com/54523080/185818775-918a5f69-e090-4688-aebd-d13d4ca19210.png)
 
 After selecting the SVG type, the code is automatically saved as shown below.
 
-![image](https://user-images.githubusercontent.com/54523080/185240655-565f1b31-8d17-42ed-9716-12bfdf91b3f2.png)
+![image](https://user-images.githubusercontent.com/54523080/185818843-a6d63db8-3fce-4638-a259-d5c1245d1a72.png)
 
 If you want to print the code for sharing a hard copy between customers or if you need to atach a printed code to a product to be sold, shipped or mailed, you probably prefer to use the option pdf.
 
-![image](https://user-images.githubusercontent.com/54523080/185241653-91681d39-f0e1-489e-8425-3b757f9e0ee2.png)
+![image](https://user-images.githubusercontent.com/54523080/185818891-3f621ee0-825b-46b0-8097-2508d4d4f634.png)
 
 After selecting the pdf type you can customize the pdf as shown below
 
-![image](https://user-images.githubusercontent.com/54523080/185242225-d4ad3200-196c-4d1f-b5c5-3176d415ac6a.png)
+![image](https://user-images.githubusercontent.com/54523080/185818992-25defd45-ab3e-4dca-b6eb-8d197d2d21ac.png)
 
 After pressing the Download PDF button the pdf file is saved.
 
-![image](https://user-images.githubusercontent.com/54523080/185242598-437d4b47-ba84-4b04-9f80-b75c21e02a40.png)
+![image](https://user-images.githubusercontent.com/54523080/185819052-b4fba8e1-f80f-4806-98c1-2cc34e8ac9cc.png)
 
 ### How to create different types of QR codes
 
