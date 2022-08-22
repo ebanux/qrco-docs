@@ -5,13 +5,22 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'QR Customization',
-    Svg: require('../../static/img/Cenit_IO_The_platform.svg').default,
+    Svg: require('../../static/img/Cenit_IO_Routing_&_orchestrations.svg').default,
     description: (
       <>
         Capability of customizing your QR code and frame in an easy way
       </>
     ),
   },
+  {
+    title: 'Export to PDF',
+    Svg: require('../../static/img/Cenit_IO_The_platform.svg').default,
+    description: (
+      <>
+        The QR code can be exported as a pdf file which is also customizable. This is the most suitable format when you need to print multiple copies of the QR code
+      </>
+    ),
+  },  
   {
     title: 'Short URL',
     Svg: require('../../static/img/Cenit_IO_Cloud_or_local.svg').default,
@@ -21,15 +30,7 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    title: 'Anywhere',
-    Svg: require('../../static/img/Cenit_IO_Shared_resources.svg').default,
-    description: (
-      <>
-        Sellers can use payment links to display it anywhere on the internet as a QR Code, just by sharing the QR Code with customers.
-      </>
-    ),
-  },
+
 ];
 
 function Feature({ Svg, title, description }) {
