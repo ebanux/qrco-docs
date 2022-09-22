@@ -106,7 +106,7 @@ The picture above shows the three corners in the same color and the three corner
 
 ![corners](https://user-images.githubusercontent.com/54523080/191155232-467c3b0a-5897-42f7-9040-fa10e4670462.png)
 
-The example of code shows a background with solid color in white, but you can also set a bakground image by changing the bakground type to image, as shown below.  You should use the background image feature carefully because the image could introduce noises in the code and turn it unreadable.
+The example of code shows a background with solid color in white, but you can also set a bakground image by changing the bakground type to image, as shown below.  You should use the background image feature carefully because the image could introduce noises in the code and turn it unreadable. You also should be advised that there is a limit of 50 KB for the background image.
 
 ![image](https://user-images.githubusercontent.com/54523080/191155815-0eac738a-f235-4270-bbd8-a8ed4e620de1.png)
 
@@ -138,7 +138,7 @@ The picture below shows a design where a predefined logo has been selected.
 
 ![image](https://user-images.githubusercontent.com/54523080/191157718-c1ba4a9b-32ef-4e7f-9385-12e11300d21b.png)
 
-However you can select a customized image by pressing the Upload button. In the example below the Cenit IO logo has been selected.
+However you can select a customized image by pressing the Upload button. In the example below the Cenit IO logo has been selected. You should be advised that there is a limit of 30 KB for the logo image.
 
 ![image](https://user-images.githubusercontent.com/54523080/191157911-91fc3808-c546-4e35-9068-847f5efbe99d.png)
 
