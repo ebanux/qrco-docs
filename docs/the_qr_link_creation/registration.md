@@ -40,8 +40,8 @@ Then you will receive a confirmation code via email, so you will need to enter t
 
 ![image](https://user-images.githubusercontent.com/54523080/191137026-6828ab3a-e4e8-4973-bc2d-4f6de8bc43f6.png)
 
-After confirming your email, you will be redirected to the admin view and the authenticated user is shown in the bottom right.
+After confirming your email, you will be redirected to the admin view and the authenticated user is shown in the bottom right. As you can see in the picture below, after registering in The QR Link, you start a trial period. So, you will need to buy a plan before your trial period expires. 
 
-![image](https://user-images.githubusercontent.com/54523080/191137578-c7c75a1d-c803-4b86-a2a4-5f54ec896c71.png)
+![image](https://user-images.githubusercontent.com/54523080/192060748-c31d0bad-ab03-4797-a28d-ca1e55ae9a0e.png)
 
-To know how to create a QR code you should read the next section: [The QR Link Creation](the_qr_link_creation.md) 
+To know how to buy a plan you should read the section [Plans](plans.md). To learn how to create a QR code you should read the section: [The QR Link Creation](the_qr_link_creation.md) 
