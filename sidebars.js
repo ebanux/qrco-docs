@@ -23,7 +23,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'The QR Link Creation',
-      items: ['the_qr_link_creation/registration','the_qr_link_creation/the_qr_link_creation'],
+      items: ['the_qr_link_creation/registration','the_qr_link_creation/plans','the_qr_link_creation/the_qr_link_creation'],
     },	
     {
       type: 'category',
