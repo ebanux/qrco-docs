@@ -10,7 +10,7 @@ Although you can start creating static QR codes without sign in or even without 
 
 ## How to create a QR code
 
-Generating a QR code with The QR Link is very easy, you just need to follow four simple steps:
+Generating a QR code with The QR Link is very easy, you just need to follow three simple steps:
 
 **1- Choose the type of QR Code**
 
@@ -22,15 +22,13 @@ Enter all the info which is needed to generate de QR code. The data varies depen
 
 **3- Customize your QR Code** 
 
-Desing your QR code with custom shapes, colors and frames.
+Design your QR code with custom shapes, colors and frames.
 
-**3- Download and Share it** 
-
-Download & Share the QR or short URL for any channel.
+### Create the QR code
 
 When an authenticated user access The QR Link, the admin view is shown. To create a QR code you need to press the button Create QR.
 
-![image](https://user-images.githubusercontent.com/54523080/191138242-37f14361-f525-4c46-9c10-35b304db5ce9.png)
+![image](https://user-images.githubusercontent.com/54523080/194091259-7fb6a779-c463-47d0-a2d5-fbb3027d4c80.png)
 
 First of all, you must make a choice of creating a Static QR code or a Dynamic QR code.
 

@@ -2,7 +2,7 @@
 
 When you create an account in The QR Link, you start a trial period. The UI notifies the remaining days.  
 
-![image](https://user-images.githubusercontent.com/54523080/192060564-750f1e46-6152-479f-b1d0-8f322a3fea59.png)
+![image](https://user-images.githubusercontent.com/54523080/194095074-83a94ffb-9361-4220-92ca-62d4fb86ecb4.png)
 
 When the trial period ends, you must buy a plan for continuing using The QR Link. To know our plans you should review the pricing section in the landing page: https://www.theqr.link/#prices or you can enter directly to the Plans view: https://app.theqr.link/plans
 
@@ -45,5 +45,3 @@ After exiting the plans view, the admin view is shown.
 ![image](https://user-images.githubusercontent.com/54523080/192068458-3fde923e-6a33-470c-a951-52e305e57330.png)
 
 To learn how to create a QR code you should read the section: [The QR Link Creation](the_qr_link_creation.md)
-
-
