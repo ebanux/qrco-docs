@@ -2,7 +2,7 @@
 
 When you create an account in The QR Link, you start a trial period. The UI notifies the remaining days.  
 
-![image](https://user-images.githubusercontent.com/54523080/194095074-83a94ffb-9361-4220-92ca-62d4fb86ecb4.png)
+![image](https://user-images.githubusercontent.com/54523080/194646260-ac3fae2d-b488-4e2c-b81f-e4eafcb78f14.png)
 
 When the trial period ends, you must buy a plan for continuing using The QR Link. To know our plans you should review the pricing section in the landing page: https://www.theqr.link/#prices or you can enter directly to the Plans view: https://app.theqr.link/plans
 
@@ -10,7 +10,7 @@ When the trial period ends, you must buy a plan for continuing using The QR Link
 
 To buy a plan you need to  choose the plan that fits your needs and press the button Subscribe
 
-![image](https://user-images.githubusercontent.com/54523080/192062738-63270bbf-0b19-439c-be21-b47cff21041c.png) 
+![](C:\Users\joe\AppData\Roaming\marktext\images\2022-10-07-16-21-53-image.png)
 
 After selecting you plan and pressing Subscribe, you will be redirected to a checkout page like the one below.
 
@@ -38,7 +38,7 @@ After confirming the new plan you can go back to The QR Link by pressing the but
 
 When you go back to The QR Link you can see the trial advice is no longer shown. To start creating QR codes press the button Admin to exit the plans view.
 
-![image](https://user-images.githubusercontent.com/54523080/192067757-32000007-93be-481a-9e32-915a703c284e.png)
+![image](https://user-images.githubusercontent.com/54523080/194646919-d812571d-5285-4d39-88c0-41fd99e14005.png)
 
 After exiting the plans view, the admin view is shown.
 
