@@ -2,7 +2,7 @@
 
 [The QR Link](https://www.theqr.link/) is a feature of [Ebanux Marketplace](https://www.ebanux.com/) that facilitates the design of QR codes which can be used for multiple purposes. It is available at https://app.theqr.link/
 
-![image](https://user-images.githubusercontent.com/54523080/191096128-bb3e7e82-7bdc-4997-9126-771fd8f2cd72.png)
+![image](https://user-images.githubusercontent.com/54523080/194639591-8c188bd3-c9fc-4bbc-9dcc-b71f221aab91.png)
 
 You can use the The QR Link to create static QR codes for free, so you don't need to sign in for creating a static QR code. However there are some limitations when you use the platform without getting authenticated:
 
@@ -22,7 +22,7 @@ So, we strongly recommend to register for an account and sign in before start de
 
 To sign in and enjoy the benefits of working as an authenticated user, press the button Login at the top right.
 
-![image](https://user-images.githubusercontent.com/54523080/191101869-a7d29ad9-b5ac-4675-8bdf-501cfb67e0d5.png)
+![image](https://user-images.githubusercontent.com/54523080/194643290-f8e0e0fb-bfc7-4644-aa80-292a4027a484.png)
 
 If you have an account, you can enter your email and password and press Sign In.
 
@@ -42,6 +42,6 @@ Then you will receive a confirmation code via email, so you will need to enter t
 
 After confirming your email, you will be redirected to the admin view and the authenticated user is shown in the bottom right. As you can see in the picture below, after registering in The QR Link, you start a trial period. So, you will need to buy a plan before your trial period expires. 
 
-![image](https://user-images.githubusercontent.com/54523080/194095074-83a94ffb-9361-4220-92ca-62d4fb86ecb4.png)
+![image](https://user-images.githubusercontent.com/54523080/194661127-ed2cb53f-a7b4-4ff7-a35d-2ca3088b909a.png)
 
 To know how to buy a plan you should read the section [Plans](plans.md). To learn how to create a QR code you should read the section: [The QR Link Creation](the_qr_link_creation.md) 

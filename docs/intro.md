@@ -8,7 +8,7 @@ Let's discover **The QR Link in less than 15 minutes**.
 
 [The QR Link](https://www.theqr.link/) is a feature of [Ebanux Marketplace](https://www.ebanux.com/) that facilitates the design of QR codes which can be used for multiple purposes. It is available at https://app.theqr.link/
 
-![image](https://user-images.githubusercontent.com/54523080/191096128-bb3e7e82-7bdc-4997-9126-771fd8f2cd72.png)
+![image](https://user-images.githubusercontent.com/54523080/194639591-8c188bd3-c9fc-4bbc-9dcc-b71f221aab91.png)
 
 The QR Link allows to create and customize your QR code and frame easily. You just need to follow **four simple steps**:
 
