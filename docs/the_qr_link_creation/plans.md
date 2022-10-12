@@ -44,4 +44,4 @@ After exiting the plans view, the admin view is shown.
 
 ![image](https://user-images.githubusercontent.com/54523080/192068458-3fde923e-6a33-470c-a951-52e305e57330.png)
 
-To learn how to create a QR code you should read the section: [The QR Link Creation](the_qr_link_creation.md)
+To learn how to create a QR code you should read the section: [How to create a QR code](the_qr_link_creation.md)
