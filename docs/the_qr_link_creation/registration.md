@@ -6,7 +6,7 @@
 
 You can use the The QR Link to create static QR codes for free, so you don't need to sign in for creating a static QR code. However there are some limitations when you use the platform without getting authenticated:
 
-- You can create only static QR codes. Static QR Codes contain constant data, for example, an embedded URL with a fixed destination. The invariable data like the fixed URL is part of the QR code pattern, which means you can’t edit static QR codes. So, a Static QR Code always leads the user to the same URL destination
+- You can create only static QR codes. Static QR Codes contain constant data, for example, an embedded URL with a fixed destination. The invariable data like the fixed URL is part of the QR code pattern, which means you can’t edit static QR codes. So, an Static QR Code always leads the user to the same URL destination
 
 - After designing the QR code you are forced to export it as an external file of type png, svg or pdf. Since you are not authenticated, you are not able to save your QR code in the platform to manage it later.
 
@@ -44,4 +44,4 @@ After confirming your email, you will be redirected to the admin view and the au
 
 ![image](https://user-images.githubusercontent.com/54523080/194661127-ed2cb53f-a7b4-4ff7-a35d-2ca3088b909a.png)
 
-To know how to buy a plan you should read the section [Plans](plans.md). To learn how to create a QR code you should read the section: [The QR Link Creation](the_qr_link_creation.md) 
+To know how to buy a plan you should read the section [Plans](plans.md). To learn how to create a QR code you should read the section: [How to create a QR code](the_qr_link_creation.md) 

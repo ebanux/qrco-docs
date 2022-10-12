@@ -1,12 +1,12 @@
-# The QR Link Creation
+# How to create a QR code
 
 [The QR Link](https://www.theqr.link/) is a feature of [Ebanux Marketplace](https://www.ebanux.com/) that facilitates the design of QR codes which can be used for multiple purposes. It is available at https://app.theqr.link/
 
-![image](https://user-images.githubusercontent.com/54523080/194651570-229bd2c6-edc6-405f-b58b-bbe5d11b6698.png)
+![image](https://user-images.githubusercontent.com/54523080/194639591-8c188bd3-c9fc-4bbc-9dcc-b71f221aab91.png)
 
 Although you can start creating static QR codes without sign in or even without register for an account, it's better if you sign in before creating a QR code. To see the benefits of getting authenticated you should read the section [Registration](registration.md). To sign in press the Login button at the top right.
 
-![image](https://user-images.githubusercontent.com/54523080/194651910-b0bca77e-b005-4742-90be-fc1162505165.png)
+![image](https://user-images.githubusercontent.com/54523080/194643290-f8e0e0fb-bfc7-4644-aa80-292a4027a484.png)
 
 ## How to create a QR code
 
@@ -34,7 +34,7 @@ First of all, you must make a choice of creating a Dynamic QR code or an Static 
 
 ![image](https://user-images.githubusercontent.com/54523080/194652881-3004501a-9f0c-4adb-a9d4-0dcef55135c0.png)
 
-When you generate a QR code, it's better if you use a **Dynamic QR code** instead of a static one. The Dynamic QR code is associated to a **Short Link** which provides two improvements: 
+When you generate a QR code, it's better if you use a **Dynamic QR code** instead of a static one. The Dynamic QR code is associated to a **Short Link** which provides two advantages: 
 
 - a code less dense 
 
@@ -80,7 +80,7 @@ At first you need to select the type of QR code you want to create, for example 
 
 ### Enter the QR content
 
-Then you will need to enter the QR Name, which can be useful for managing your QR codes in the Admin view and some information according to the type of QR you want to create. For example, in the case of QR for linking to a website URL you just need to enter the URL. You can find the explanation about the data to be defined for every type of QR code in the section [How to create different types of QR codes](#how-to-create-different-types-of-qr-codes)
+Then you will need to enter the QR Name, which can be useful for managing your QR codes in the Admin view and some information according to the type of QR you want to create. For example, in the case of QR for linking to a website URL you just need to enter the QR name and the URL. You can find the explanation about the data to be defined for every type of QR code in the section [How to create different types of QR codes](#how-to-create-different-types-of-qr-codes)
 
 ![image](https://user-images.githubusercontent.com/54523080/194682549-20a5cee5-fe1e-457c-b7cb-37900ad54479.png)
 
@@ -200,82 +200,4 @@ After saving the QR code, you can see its details in the admin view: its create 
 
 ### How to create different types of QR codes
 
-The section [Select the QR type](#select-the-qr-type) explains that the first step for creating a QR code is to select the type of QR code you want to generate. Depending on the type of QR code you must enter different information related to the code. The type of QR code for a website URL was explained before. Now you can check the details about creating other types of QR codes.
-
-#### Email
-
-![image](https://user-images.githubusercontent.com/54523080/194683104-43907fc4-10c6-48f9-b0f3-e5e66bb04875.png)
-
-After selecting the type Email you need to enter a value for every field:
-
-- Email: the email address
-
-- Subject: the email subject
-
-- Body: the email message
-
-#### SMS
-
-![image](https://user-images.githubusercontent.com/54523080/194683146-0c576c89-1207-48bb-9270-324eaf953de6.png)
-
-After selecting the type SMS you need to enter a value for every field:
-
-- Number: the cellphone number
-
-- Message: the short message
-
-#### VCard
-
-![image](https://user-images.githubusercontent.com/54523080/194683172-71160bf5-b665-4f2a-a0c1-e713d015d99b.png)
-
-After selecting the type VCard you need to enter a value for every field related to the contact. You must enter at least the contact name.
-
-#### Text
-
-![image](https://user-images.githubusercontent.com/54523080/194683201-b4628216-3f2b-41f4-a299-7aba92fe7ba5.png)
-
-After selecting the type Text you need to enter a value for every field:
-
-- Message: a plaintext message (emojis are not allowed).
-
-#### WiFi
-
-![image](https://user-images.githubusercontent.com/54523080/194683236-f2abfdea-879e-46bc-9ed4-e0f42d6d58c4.png)
-
-After selecting the type WiFi you need to enter a value for every field:
-
-- Name: the SSID of the Wifi network
-
-- Encription: the encription type
-
-- Password: the Wifi password (optional)
-
-#### Twitter
-
-![image](https://user-images.githubusercontent.com/54523080/194683269-0d1344e9-b637-474c-adbc-41d78bbb5251.png)
-
-After selecting the type Twitter you need to enter a value for every field:
-
-- Text:  the tweet content.
-- Mention: a username to be targeted in your tweet (without the @ symbol)
-- Hashtags: a comma separated list of hashtags to be included in the tweet (without the # symbol)
-- URL: an URL to be shared in the tweet
-
-All the elements are grouped in the tweet in the order: Text, URL, Hashtags, Mention. 
-
-#### Whatsapp
-
-![image](https://user-images.githubusercontent.com/54523080/194683306-fa3c5aa0-e580-4be5-8d6e-f927668161dc.png)
-
-After selecting the type Whatsapp you need to enter a value for every field:
-
-- The cellphone number registered in whatsapp, including the contry code, for example +1.
-- Message: The whatsapp message (may include emojis)
-
-#### Facebook
-
-![image](https://user-images.githubusercontent.com/54523080/194683326-fc502541-b6c2-4822-8441-c23c5617d0a1.png)
-
-After selecting the type Facebook you need to enter a value for every field:
-
-- Post: A URL you want to share in facebook.
+The section [Select the QR type](#select-the-qr-type) explains that the first step for creating a QR code is to select the type of QR code you want to generate. Depending on the type of QR code you must enter different information related to the code. The Static QR code for a website URL was explained before. If you want to know the details about creating other types of QR codes you should read the sections [Static QR codes](static_qr_codes.md) and [Dynamic QR codes](dynamic_qr_codes.md)
