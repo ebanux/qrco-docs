@@ -71,6 +71,10 @@ The QR name and the First name are required.
 
 ![image](https://user-images.githubusercontent.com/54523080/195450135-72d6f753-3b25-47e5-991b-adea0ad8b36e.png)
 
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/195714161-3decc3bf-871d-4cb0-a89a-ab3ae3c24995.png)
+
 #### Business
 
 ![image](https://user-images.githubusercontent.com/54523080/195457721-9c0bb9c3-e80f-4802-afaa-918ac9ada546.png)
@@ -97,6 +101,10 @@ The Social Information section allows to specify the links to social networks
 
 ![image](https://user-images.githubusercontent.com/54523080/195453790-b1a82d24-48f5-487e-baf3-c1c8fbcecaf5.png)
 
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/195712302-74b3186c-f192-4e27-805e-3aa6de1601b1.png)
+
 #### Social Networks
 
 ![image](https://user-images.githubusercontent.com/54523080/195457753-c90692cc-26bd-476b-875e-b99c26caebd6.png)
@@ -106,6 +114,10 @@ After selecting the type Social Networks you need to enter the value related to 
 The QR name and at least one social network are required.
 
 ![image](https://user-images.githubusercontent.com/54523080/195454482-09adf433-de4c-4aec-a7b5-96dccc18a1b2.png)
+
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/195689352-f99edd05-feb9-4e01-8578-d1db1f97d7d9.png)
 
 #### Coupon
 
@@ -136,6 +148,10 @@ After selecting the type Coupon you need to enter a value for every field relate
 The QR name, Title, Button Text, Link, and Coupon code are required.
 
 ![image](https://user-images.githubusercontent.com/54523080/195454956-d6dcf715-e9c8-4c83-98ad-97250254f283.png)
+
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/195699692-17e8b5e3-5092-49e3-b406-55b9ea925b9d.png)
 
 #### Twitter
 
@@ -182,8 +198,6 @@ Both values are required.
 
 ![image](https://user-images.githubusercontent.com/54523080/195456862-42c3b357-32ba-401d-9674-7ad0e1e5b1ea.png)
 
-
-
 #### PDF file
 
 ![image](https://user-images.githubusercontent.com/54523080/195457955-6480335e-6616-4583-8d55-ea893fc0b348.png)
@@ -193,6 +207,10 @@ After selecting the type PDF file you need to enter the info related to the PDF 
 The QR name and the pdf file are required. You can upload 1 PDF file of size 200 MB
 
 ![image](https://user-images.githubusercontent.com/54523080/195459784-a5c5538e-a4de-4c77-be25-11add4b4fec2.png)
+
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/195701211-12d0c1eb-5381-42a5-b1a2-5cad88efa0f2.png)
 
 #### Audio file
 
@@ -204,6 +222,10 @@ The QR name and the audio file are required. You can upload 1 audio file of size
 
 ![image](https://user-images.githubusercontent.com/54523080/195459839-84016b65-b877-4ff1-adfc-2124badc018e.png)
 
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/195703118-7798e641-0a1f-4ed4-89d6-6e5eb24ac403.png)
+
 #### Image file
 
 ![image](https://user-images.githubusercontent.com/54523080/195458005-714c895b-9304-4def-bc76-67597653e4bf.png)
@@ -214,6 +236,10 @@ The QR name and at least one image file are required. You can upload up to 25 fi
 
 ![image](https://user-images.githubusercontent.com/54523080/195459880-3c28bb31-4004-4213-ab34-e6c07419eb68.png)
 
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/195703537-d5311aab-3cf0-4410-96e8-740d4b4abbcb.png)
+
 #### Video file
 
 ![image](https://user-images.githubusercontent.com/54523080/195458036-641cc445-65ba-4b95-bbaa-bdd387374917.png)
@@ -223,3 +249,7 @@ After selecting the type Video file you need to enter the info related to the vi
 The QR name and at least one video file are required. You can upload up to 4 files of size 300 MB
 
 ![image](https://user-images.githubusercontent.com/54523080/195459910-7b0292b0-5e48-483d-964c-8ad0ca939386.png)
+
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/195709764-5f671891-2014-4aa7-a975-493d4cefae4e.png)
