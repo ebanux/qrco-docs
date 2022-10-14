@@ -81,7 +81,7 @@ The image below shows an example of the microsite where the user is redirected a
 
 After selecting the type Business you need to enter a value for every field related to the business. You should notice all the info will be shown in a microsite.
 
-The QR name and the First name are required.
+The QR name and the Company name are required.
 
 ![image](https://user-images.githubusercontent.com/54523080/195451832-22cd2023-faec-4034-902e-9dc741edcd53.png)
 
