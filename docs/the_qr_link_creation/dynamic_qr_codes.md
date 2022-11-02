@@ -30,20 +30,21 @@ The table below shows the types of Dynamic QR codes you can create by using The 
 | VCard Plus      | Lead the user to a micropage where the contact information is shown. The user can add a contact to his/her device but some information in the microsite is not available to be added as a cellphone contact field. |
 | Business        | Lead the user to a micropage where a business information is shown.                                                                                                                                                |
 | Social Networks | Lead the user to a micropage where your social links are shown.                                                                                                                                                    |
+| Links           | Lead the user to a micropage that shows your social links as well as additional customized links to your website, your blog, your youtube channel, etc.                                                            |
 | Coupon          | Lead the user to a micropage where a sales promotion is shown. The coupon code can be used to get a discount when buying in an online or a physical store.                                                         |
 | Twitter         | Share a tweet in Twitter                                                                                                                                                                                           |
 | Whatsapp        | Send a whatsapp message                                                                                                                                                                                            |
 | Facebook        | Share an URL in Facebook                                                                                                                                                                                           |
 | PDF file        | Lead the user to a micropage where a PDF file is shown.                                                                                                                                                            |
 | Audio File      | Lead the user to a micropage where an audio file is shown.                                                                                                                                                         |
-| Image File      | Lead the user to a micropage where one or more image files are shown.                                                                                                                                              |
+| Gallery         | Lead the user to a micropage where one or more image files are shown.                                                                                                                                              |
 | Video file      | Lead the user to a micropage where one or more video files are shown.                                                                                                                                              |
 
 The content of the QR code depends on the type of QR you want to create. To know what information you need to specify for every type of QR code, you should read below.
 
 #### Website
 
-![image](https://user-images.githubusercontent.com/54523080/195457658-033a5974-80cf-40f7-9a8d-6aa60dee8c43.png)
+![image](https://user-images.githubusercontent.com/54523080/199325693-fceb3725-eb21-41bb-9d55-adc07e3c4678.png)
 
 After selecting the type Website you need to enter a value for every field:
 
@@ -59,7 +60,7 @@ The icon below the logout button let you know you're creating a dynamic QR code.
 
 #### Vcard Plus
 
-![image](https://user-images.githubusercontent.com/54523080/195457689-9bea7180-527b-4e58-a4be-79cd6463b112.png)
+![image](https://user-images.githubusercontent.com/54523080/199325765-47cd7f86-907d-4285-bd5b-59e95516cdea.png)
 
 After selecting the type VCard Plus you need to enter a value for every field related to the contact. You should notice all the info will be shown in a microsite.
 
@@ -69,21 +70,43 @@ After selecting the type VCard Plus you need to enter a value for every field re
 
 The QR name and the First name are required.
 
-![image](https://user-images.githubusercontent.com/54523080/195450135-72d6f753-3b25-47e5-991b-adea0ad8b36e.png)
+The design section allows you to customize the microsite theme, i.e., its primary and secondary colors, as well as to upload a background image and a main image. The picture below shows the design section. You can check the location of both pictures in the example of a microsite that is shown next.
+
+![image](https://user-images.githubusercontent.com/54523080/199366682-04f98098-03d0-413c-a46d-3a31b9a208c6.png)
+
+After uploading the background and main images some buttons are shown in order to facilitate the images management:
+
+- The preview button allows you to view the image
+
+- The remove button can be used to delete the current image
+
+![image](https://user-images.githubusercontent.com/54523080/199384289-d233b5d6-14a5-4984-a85c-dd32f307b92a.png)
+
+ In the case of the main image, an additional button is shown:
+
+- This button allows you to select a shape for the main image.
+  
+  ![image](https://user-images.githubusercontent.com/54523080/199387149-da297266-0f2d-499e-979b-9d25e680bb37.png)
+
+Since a QR of type VCard Plus leads the user to a microsite where the contact information is shown, it allows to specify  some etra information if we compare it with the Static QR of type VCard, for example the social network links.
+
+By clicking every social network you want to add to the contact information, you will ne able to enter the contact username on each one.
+
+![image](https://user-images.githubusercontent.com/54523080/199388852-37a57bb4-6e9e-49db-96dc-6a3d16e5d5af.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/195714161-3decc3bf-871d-4cb0-a89a-ab3ae3c24995.png)
+![image](https://user-images.githubusercontent.com/54523080/199395062-224effde-1dbc-4f56-af90-f4c5d437fa2d.png)
 
 #### Business
 
-![image](https://user-images.githubusercontent.com/54523080/195457721-9c0bb9c3-e80f-4802-afaa-918ac9ada546.png)
+![image](https://user-images.githubusercontent.com/54523080/199325806-77018d54-3a6b-4b3a-a73e-f158e40c77c1.png)
 
 After selecting the type Business you need to enter a value for every field related to the business. You should notice all the info will be shown in a microsite.
 
 The QR name and the Company name are required.
 
-![image](https://user-images.githubusercontent.com/54523080/195451832-22cd2023-faec-4034-902e-9dc741edcd53.png)
+![image](https://user-images.githubusercontent.com/54523080/199402478-3d41c548-b46b-4728-9955-32286aaa2d9f.png)
 
 The Option button section allows to cutomize an optional button to be included in the microsite, so you need to enter the button text and the URL associated to the button.
 
@@ -103,25 +126,39 @@ The Social Information section allows to specify the links to social networks
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/195712302-74b3186c-f192-4e27-805e-3aa6de1601b1.png)
+![image](https://user-images.githubusercontent.com/54523080/199408348-84459191-a092-42f6-b33b-f8f02c8776ed.png)
 
 #### Social Networks
 
-![image](https://user-images.githubusercontent.com/54523080/195457753-c90692cc-26bd-476b-875e-b99c26caebd6.png)
+![image](https://user-images.githubusercontent.com/54523080/199325860-6e6d22fb-2253-4d4e-9f89-9d077491831b.png)
 
 After selecting the type Social Networks you need to enter the value related to the social network you want to add, usually a username. You should notice all the info will be shown in a microsite.
 
 The QR name and at least one social network are required.
 
-![image](https://user-images.githubusercontent.com/54523080/195454482-09adf433-de4c-4aec-a7b5-96dccc18a1b2.png)
+![image](https://user-images.githubusercontent.com/54523080/199408848-13f29104-8968-4dec-9fe5-e64c71f3ea32.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/195689352-f99edd05-feb9-4e01-8578-d1db1f97d7d9.png)
+![image](https://user-images.githubusercontent.com/54523080/199409456-c00788c9-e3e2-4c14-a385-5ec06f61f11a.png)
+
+#### Links
+
+![image](https://user-images.githubusercontent.com/54523080/199325930-679c1e18-2463-4f20-917b-89fee737b4fa.png)
+
+After selecting the type Links you need to enter the value related to the social network links you want to add, usually a username, as well as one or more customized links for sharing your personal URLs such as you blog, your personal website, etc. You should notice all the info will be shown in a microsite.
+
+The QR name, the title and at least one customized link are required.
+
+![image](https://user-images.githubusercontent.com/54523080/199410866-feac0063-b883-4398-be6d-6b6320d144c6.png)
+
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/199411279-10a21b61-1f2e-40b1-b4c9-9582a8e65c9d.png)
 
 #### Coupon
 
-![image](https://user-images.githubusercontent.com/54523080/195457842-ff243e0f-4f7b-4309-927f-b5881803bed6.png)
+![image](https://user-images.githubusercontent.com/54523080/199325993-51012586-edbf-4525-8010-8b2e53eede5d.png)
 
 After selecting the type Coupon you need to enter a value for every field related to the promotion. You should notice all the info will be shown in a microsite.
 
@@ -147,15 +184,15 @@ After selecting the type Coupon you need to enter a value for every field relate
 
 The QR name, Title, Button Text, Link, and Coupon code are required.
 
-![image](https://user-images.githubusercontent.com/54523080/195454956-d6dcf715-e9c8-4c83-98ad-97250254f283.png)
+![image](https://user-images.githubusercontent.com/54523080/199412146-8a09987a-ac99-43a4-b69c-bcfca4b853bd.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/195699692-17e8b5e3-5092-49e3-b406-55b9ea925b9d.png)
+![image](https://user-images.githubusercontent.com/54523080/199412747-31aef30f-1498-45ca-820a-0ea712cf045c.png)
 
 #### Twitter
 
-![image](https://user-images.githubusercontent.com/54523080/195457877-a0bf7898-064c-4a58-bcfa-cbfbb27546d6.png)
+![image](https://user-images.githubusercontent.com/54523080/199326051-72866eec-c6f5-47d9-978f-17d1582e283c.png)
 
 After selecting the type Twitter you need to enter a value for every field:
 
@@ -173,7 +210,7 @@ The QR name field is required. It's also mandatory to enter a value for at least
 
 #### Whatsapp
 
-![image](https://user-images.githubusercontent.com/54523080/195457899-de06d58c-9fd7-4ef8-b004-4da456dbf9df.png)
+![image](https://user-images.githubusercontent.com/54523080/199326094-8037792b-aaa2-4640-9848-efa93ad52784.png)
 
 After selecting the type Whatsapp you need to enter a value for every field:
 
@@ -187,7 +224,7 @@ The three values are required.
 
 #### Facebook
 
-![image](https://user-images.githubusercontent.com/54523080/195458421-4c81f9ba-7ae9-4490-b213-35148e0ab23f.png)
+![image](https://user-images.githubusercontent.com/54523080/199326122-d768e335-89b3-4afa-8b0c-9cd489b070cf.png)
 
 After selecting the type Facebook you need to enter a value for every field:
 
@@ -200,56 +237,56 @@ Both values are required.
 
 #### PDF file
 
-![image](https://user-images.githubusercontent.com/54523080/195457955-6480335e-6616-4583-8d55-ea893fc0b348.png)
+![image](https://user-images.githubusercontent.com/54523080/199326162-82a9e2ef-ae23-460d-84b1-881a0f6b4991.png)
 
 After selecting the type PDF file you need to enter the info related to the PDF file. You should notice the pdf file will be shown in a microsite.
 
 The QR name and the pdf file are required. You can upload 1 PDF file of size 200 MB
 
-![image](https://user-images.githubusercontent.com/54523080/195459784-a5c5538e-a4de-4c77-be25-11add4b4fec2.png)
+![image](https://user-images.githubusercontent.com/54523080/199413948-7137cedf-8293-4fe9-9383-c3a3ae1b3cf0.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/195701211-12d0c1eb-5381-42a5-b1a2-5cad88efa0f2.png)
+![image](https://user-images.githubusercontent.com/54523080/199416679-ac24367b-aee2-46a9-bb4e-5d2a386804c1.png)
 
 #### Audio file
 
-![image](https://user-images.githubusercontent.com/54523080/195457981-c812a212-0112-4b67-b0f1-1ea9e39c6083.png)
+![image](https://user-images.githubusercontent.com/54523080/199326185-3e4d749b-d5f8-4c8d-bec5-75d21eb4d377.png)
 
 After selecting the type Audio file you need to enter the info related to the Audio file. You should notice the audio file will be shown in a microsite.
 
 The QR name and the audio file are required. You can upload 1 audio file of size 30 MB
 
-![image](https://user-images.githubusercontent.com/54523080/195459839-84016b65-b877-4ff1-adfc-2124badc018e.png)
+![image](https://user-images.githubusercontent.com/54523080/199418854-1ece8b5c-84ab-46c8-8989-3c0798d0f417.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/195703118-7798e641-0a1f-4ed4-89d6-6e5eb24ac403.png)
+![image](https://user-images.githubusercontent.com/54523080/199419172-e10e466d-efb7-4c37-a394-f1ef521adc03.png)
 
-#### Image file
+#### Gallery
 
-![image](https://user-images.githubusercontent.com/54523080/195458005-714c895b-9304-4def-bc76-67597653e4bf.png)
+![image](https://user-images.githubusercontent.com/54523080/199326217-84066318-8f4f-423d-9e5c-f0724dd4c6ed.png)
 
-After selecting the type Image file you need to enter the info related to the Image files. You should notice the image files will be shown in a microsite.
+After selecting the type Gallery  you need to enter the info related to the Image files. You should notice the image files will be shown in a microsite.
 
 The QR name and at least one image file are required. You can upload up to 25 files of size 20 MB
 
-![image](https://user-images.githubusercontent.com/54523080/195459880-3c28bb31-4004-4213-ab34-e6c07419eb68.png)
+![image](https://user-images.githubusercontent.com/54523080/199419683-fd211a0d-4a06-4aa9-b3f6-d2a9c04950ba.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/195703537-d5311aab-3cf0-4410-96e8-740d4b4abbcb.png)
+![image](https://user-images.githubusercontent.com/54523080/199421057-125627cc-2e06-4339-8970-53bacebaf5a4.png)
 
 #### Video file
 
-![image](https://user-images.githubusercontent.com/54523080/195458036-641cc445-65ba-4b95-bbaa-bdd387374917.png)
+![image](https://user-images.githubusercontent.com/54523080/199326254-a1b4ebd1-4869-46d2-93eb-7103f42a861b.png)
 
 After selecting the type Video file you need to enter the info related to the video files. You should notice the video files will be shown in a microsite.
 
 The QR name and at least one video file are required. You can upload up to 4 files of size 300 MB
 
-![image](https://user-images.githubusercontent.com/54523080/195459910-7b0292b0-5e48-483d-964c-8ad0ca939386.png)
+![image](https://user-images.githubusercontent.com/54523080/199423871-df4999c7-2b9e-4a0f-861d-5996eb8f4a39.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/195709764-5f671891-2014-4aa7-a975-493d4cefae4e.png)
+![image](https://user-images.githubusercontent.com/54523080/199425697-667803c2-2236-4492-b8c0-83f4a6185825.png)
