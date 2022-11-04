@@ -75,7 +75,7 @@ const config = {
               },
               {
                 label: 'Roadmap',
-                href: 'https://cenit.frill.co/roadmap',
+                href: 'https://theqrlink.frill.co/roadmap',
               },
               {
                 label: 'Terms of Service',
@@ -86,17 +86,17 @@ const config = {
           {
             title: 'Community',
             items: [
+			  {
+				label: 'Facebook',
+				href: 'https://www.facebook.com/ebanux',
+			  },			
               {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/company/cenit-io/',
-              },
-              {
-                label: 'Slack',
-                href: 'https://join.slack.com/t/cenitio/shared_invite/zt-1cq3uab52-Jv93F8R2BJ9MHr00SbCqjw',
+                href: 'https://www.linkedin.com/company/ebanux/',
               },
               {
                 label: 'Youtube',
-                href: 'https://www.youtube.com/c/CenitIO',
+                href: 'https://www.youtube.com/channel/UCXwX-C-UlF-5jDuHch3Ze3w',
               },
             ],
           },
@@ -104,21 +104,13 @@ const config = {
             title: 'More',
             items: [
               {
-                href: 'https://cenit.frill.co/b/6m4lrkv4/feature-ideas',
+                href: 'https://theqrlink.frill.co/b/8my3prv7/feature-ideas',
                 label: 'Feature ideas',
-              },
-              {
-                label: 'Suggest a feature',
-                href: 'https://github.com/cenit-io/cenit/issues/new?assignees=&labels=&template=feature_request.md&title=',
-              },
-              {
-                label: 'Report an issue',
-                href: 'https://github.com/cenit-io/cenit/issues/new?assignees=&labels=&template=bug_report.md&title=',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Cenit IO, LLC.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ebanux.`,
       },
       prism: {
         theme: lightCodeTheme,
