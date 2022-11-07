@@ -79,7 +79,7 @@ const config = {
               },
               {
                 label: 'Terms of Service',
-                to: '/docs/terms',
+                to: '/docs/Terms',
               },
             ],
           },
