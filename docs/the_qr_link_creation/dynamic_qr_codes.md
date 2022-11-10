@@ -16,7 +16,7 @@ This section explain some details about the dynamic QR codes.
 
 - The dynamic QR code is generated from a short URL, so the QR code is less dense than an static QR code and consequently easier to read.
 
-- Some types of QR code lead the user to a micropage with specific information according to the type of QR code. The information in the micropage can be modified anytime you need.
+- Some types of QR code lead the user to a microsite with specific information according to the type of QR code. The information shown in the microsite can be modified anytime you need.
 
 ## Types of Dynamic QR codes
 
@@ -27,18 +27,19 @@ The table below shows the types of Dynamic QR codes you can create by using The 
 | QR code Type    | Purpose                                                                                                                                                                                                            |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Website         | Open a webpage                                                                                                                                                                                                     |
-| VCard Plus      | Lead the user to a micropage where the contact information is shown. The user can add a contact to his/her device but some information in the microsite is not available to be added as a cellphone contact field. |
-| Business        | Lead the user to a micropage where a business information is shown.                                                                                                                                                |
-| Social Networks | Lead the user to a micropage where your social links are shown.                                                                                                                                                    |
-| Links           | Lead the user to a micropage that shows your social links as well as additional customized links to your website, your blog, your youtube channel, etc.                                                            |
-| Coupon          | Lead the user to a micropage where a sales promotion is shown. The coupon code can be used to get a discount when buying in an online or a physical store.                                                         |
+| VCard Plus      | Lead the user to a microsite where the contact information is shown. The user can add a contact to his/her device but some information in the microsite is not available to be added as a cellphone contact field. |
+| Business        | Lead the user to a microsite where a business information is shown.                                                                                                                                                |
+| Social Networks | Lead the user to a microsite where your social links are shown.                                                                                                                                                    |
+| Links           | Lead the user to a microsite that shows your social links as well as additional customized links to your website, your blog, your youtube channel, etc.                                                            |
+| Coupon          | Lead the user to a microsite where a sales promotion is shown. The coupon code can be used to get a discount when buying in an online or a physical store.                                                         |
 | Twitter         | Share a tweet in Twitter                                                                                                                                                                                           |
 | Whatsapp        | Send a whatsapp message                                                                                                                                                                                            |
 | Facebook        | Share an URL in Facebook                                                                                                                                                                                           |
-| PDF file        | Lead the user to a micropage where a PDF file is shown.                                                                                                                                                            |
-| Audio File      | Lead the user to a micropage where an audio file is shown.                                                                                                                                                         |
-| Gallery         | Lead the user to a micropage where one or more image files are shown.                                                                                                                                              |
-| Video file      | Lead the user to a micropage where one or more video files are shown.                                                                                                                                              |
+| PDF file        | Lead the user to a microsite where a PDF file is shown.                                                                                                                                                            |
+| Audio File      | Lead the user to a microsite where an audio file is shown.                                                                                                                                                         |
+| Gallery         | Lead the user to a microsite where one or more image files are shown.                                                                                                                                              |
+| Video file      | Lead the user to a microsite where one or more video files are shown.                                                                                                                                              |
+| Donation        | Lead the user to a microsite that requests for a contribution. The user select how much to donate and after pressing the Donate button he/she will be redirected to a checkout page.                               |
 
 The content of the QR code depends on the type of QR you want to create. To know what information you need to specify for every type of QR code, you should read below.
 
@@ -64,7 +65,7 @@ The icon below the logout button let you know you're creating a dynamic QR code.
 
 After selecting the type VCard Plus you need to enter a value for every field related to the contact. You should notice all the info will be shown in a microsite.
 
-- The Design section allow to customize the micropage appearance
+- The Design section allow to customize the microsite appearance
 
 - The section Social Information allows to specify the links to social networks (not available in an Static QR code of type VCard)
 
@@ -290,3 +291,17 @@ The QR name and at least one video file are required. You can upload up to 4 fil
 The image below shows two examples of the microsite where the user is redirected after scanning the QR code. The first one shows only one video. The other one contains three videos.
 
 ![Video](https://user-images.githubusercontent.com/54523080/199881252-2950da3d-edf8-4102-93b2-8307deada0dd.png)
+
+#### Donation
+
+![image](https://user-images.githubusercontent.com/54523080/201181708-bc20ef37-2c07-45d4-b5d4-af4c24d95ed2.png)
+
+After selecting the type Donation  you need to enter the information related to the donation. You should notice the donation info will be shown in a microsite.
+
+The QR name, the name of the person who gets the donation, the message and the donation price are required. The button text is optional, you can leave it blank and it will take the default value: Donate. The website URL for giving thanks is also optional, in case of specifying a URL, the supporter will be redirected to that URL after confirming the donation but can leave it blank and the user will be redirected to a default thank you page.
+
+![image](https://user-images.githubusercontent.com/54523080/201196281-078211b8-0b64-4dc7-b43e-09749e990731.png)
+
+The image below shows an example of the microsite where the user is redirected after scanning the QR code and  an example of the default thank you page.
+
+![image](https://user-images.githubusercontent.com/54523080/201197832-8d3d538e-c969-4d95-92c4-84eb0eac5621.png)
