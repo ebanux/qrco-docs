@@ -97,7 +97,7 @@ By clicking every social network you want to add to the contact information, you
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code. The share button allows you to share the microsite URL. The Share button is present in every microsite regardless its type.
 
-![Vcard Plus](https://user-images.githubusercontent.com/54523080/199881238-36bf7f48-4aea-4fb2-8818-ade80120197f.png)
+![01 Vcard Plus](https://user-images.githubusercontent.com/54523080/202066112-785c4674-692b-49ba-bc94-bb0b8d40a56d.png)
 
 #### Business
 
@@ -125,9 +125,9 @@ The Social Information section allows to specify the links to social networks
 
 ![image](https://user-images.githubusercontent.com/54523080/195453790-b1a82d24-48f5-487e-baf3-c1c8fbcecaf5.png)
 
-The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+The image below shows two examples of the microsite where the user is redirected after scanning the QR code.
 
-![Business](https://user-images.githubusercontent.com/54523080/199881121-08d0b576-f8ad-4c34-88aa-feb2fd0eb95e.png)
+![02 Business](https://user-images.githubusercontent.com/54523080/202066121-fd15bcef-aad4-4dce-95a8-0b1e80e03a0f.png)
 
 #### Social Networks
 
@@ -141,7 +141,7 @@ The QR name and at least one social network are required.
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![Social networks](https://user-images.githubusercontent.com/54523080/199881222-55db2c96-1213-4fdf-8d95-0f38af664e58.png)
+![03 Social networks](https://user-images.githubusercontent.com/54523080/202066210-143533ce-9a5b-400c-b146-38379aa98c91.png)
 
 #### Links
 
@@ -153,9 +153,9 @@ The QR name, the title and at least one customized link are required.
 
 ![image](https://user-images.githubusercontent.com/54523080/199410866-feac0063-b883-4398-be6d-6b6320d144c6.png)
 
-The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+The image below shows two examples of the microsite where the user is redirected after scanning the QR code.
 
-![Links](https://user-images.githubusercontent.com/54523080/199881208-c7fafa8b-39b5-4286-a315-f9dc86d0597e.png)
+![04 Links](https://user-images.githubusercontent.com/54523080/202066237-06066e7a-a431-464b-b4bf-0c650a3dc4e9.png)
 
 #### Coupon
 
@@ -189,7 +189,7 @@ The QR name, Title, Button Text, Link, and Coupon code are required.
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![Coupon](https://user-images.githubusercontent.com/54523080/199881146-83c1d9f4-6f3c-4338-b22d-eb3a640a766d.png)
+![05 Coupon](https://user-images.githubusercontent.com/54523080/202066246-bbcbb774-bee6-4d8a-b6be-cf8b9c27c6b5.png)
 
 #### Twitter
 
@@ -248,7 +248,7 @@ The QR name and the pdf file are required. You can upload 1 PDF file of size 200
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![PDF](https://user-images.githubusercontent.com/54523080/199881215-f4b5b677-91be-4a59-8f92-bed912757eab.png)
+![09 PDF](https://user-images.githubusercontent.com/54523080/202066271-1f3ac5fc-bf9a-4807-b174-6f5fdd40734c.png)
 
 #### Audio file
 
@@ -262,7 +262,7 @@ The QR name and the audio file are required. You can upload 1 audio file of size
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![Audio](https://user-images.githubusercontent.com/54523080/199881116-a3b07025-88a8-4e0a-a7c6-92e8b284040a.png)
+![06 Audio](https://user-images.githubusercontent.com/54523080/202066252-d5bcd5cf-0374-4985-ae56-959beb9d5a11.png)
 
 #### Gallery
 
@@ -276,7 +276,7 @@ The QR name and at least one image file are required. You can upload up to 25 fi
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![Gallery](https://user-images.githubusercontent.com/54523080/199881162-95d7b8dd-2350-4565-9b89-537587b65e5b.png)
+![08 Gallery](https://user-images.githubusercontent.com/54523080/202066267-c89e0a94-fc24-48f9-b2c1-f4cdf2b968f2.png)
 
 #### Video file
 
@@ -290,7 +290,7 @@ The QR name and at least one video file are required. You can upload up to 4 fil
 
 The image below shows two examples of the microsite where the user is redirected after scanning the QR code. The first one shows only one video. The other one contains three videos.
 
-![Video](https://user-images.githubusercontent.com/54523080/199881252-2950da3d-edf8-4102-93b2-8307deada0dd.png)
+![07 Video](https://user-images.githubusercontent.com/54523080/202066265-8b58b622-16fa-444e-b35f-7c1f9d5c294a.png)
 
 #### Donation
 
@@ -304,4 +304,4 @@ The QR name, the name of the person who gets the donation, the message and the d
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code and  an example of the default thank you page.
 
-![image](https://user-images.githubusercontent.com/54523080/201197832-8d3d538e-c969-4d95-92c4-84eb0eac5621.png)
+![10 Donation](https://user-images.githubusercontent.com/54523080/202066283-b5900938-b014-4cfa-8228-49e5dfee6fda.png)
