@@ -2,7 +2,7 @@
 
 The section [The QR Link Creation](the_qr_link_creation.md) explains the steps to create a QR code.  Before start creating a QR code, you need to decide what kind of QR code you want to create: an static QR code or a dynamic one.
 
-![image](https://user-images.githubusercontent.com/54523080/194652881-3004501a-9f0c-4adb-a9d4-0dcef55135c0.png) 
+![image](https://user-images.githubusercontent.com/54523080/202253533-3e3e8415-ae9a-474e-aa59-a7e9f77290b7.png) 
 
 This section explain some details about the static QR codes.
 
@@ -22,23 +22,24 @@ A QR code contains information such as an URL or an string of characters. Depend
 
 The table below shows the types of Static QR codes  you can create by using The QR Link.
 
-| QR code Type | Purpose                              |
-| ------------ | ------------------------------------ |
-| Website      | Open a webpage                       |
-| Email        | Send an email                        |
-| SMS          | Send an SMS                          |
-| VCard        | Add a contact to your device         |
-| Text         | Copy a text message to the clipboard |
-| WiFi         | Connect to a WiFi network            |
-| Twitter      | Share a tweet in Twitter             |
-| Whatsapp     | Send a whatsapp message              |
-| Facebook     | Share an URL in Facebook             |
+| QR code Type   | Purpose                                                               |
+| -------------- | --------------------------------------------------------------------- |
+| Website        | Open a webpage                                                        |
+| Email          | Send an email                                                         |
+| SMS            | Send an SMS                                                           |
+| VCard          | Add a contact to your device                                          |
+| Text           | Copy a text message to the clipboard                                  |
+| WiFi           | Connect to a WiFi network                                             |
+| Twitter        | Share a tweet in Twitter                                              |
+| Whatsapp       | Send a whatsapp message                                               |
+| Facebook       | Share an URL in Facebook                                              |
+| Cripto Payment | Open a payment link for sending different kinds of cripto currencies. |
 
 The content of the QR code depends on the type of QR you want to create. To know what information you need to specify for every type of QR code, you should read below.
 
 #### Website
 
-![image](https://user-images.githubusercontent.com/54523080/195422185-0f0caee5-f472-4b3a-99fa-e9fc6e4c9164.png)
+![image](https://user-images.githubusercontent.com/54523080/202297998-ca8ab1a2-46af-4af7-8ad6-c59a156afa91.png)
 
 After selecting the type Website you need to enter a value for every field:
 
@@ -52,7 +53,7 @@ Both values are required.
 
 #### Email
 
-![image](https://user-images.githubusercontent.com/54523080/195424891-693a1e44-e4ca-4168-947f-dd151d49e196.png)
+![image](https://user-images.githubusercontent.com/54523080/202299215-8fb3c9e5-06c3-45b0-a88a-d073ef25e87b.png)
 
 After selecting the type Email you need to enter a value for every field:
 
@@ -70,7 +71,7 @@ The QR name and the Email are required. It's also mandatory to enter a value for
 
 #### SMS
 
-![image](https://user-images.githubusercontent.com/54523080/195426480-7746b84f-c400-4eff-b404-6929448a6805.png)
+![image](https://user-images.githubusercontent.com/54523080/202299270-a6680427-1474-4dc3-bf81-45a7069d8db9.png)
 
 After selecting the type SMS you need to enter a value for every field:
 
@@ -86,7 +87,7 @@ The three values are required.
 
 #### VCard
 
-![image](https://user-images.githubusercontent.com/54523080/195430672-3ac101d0-400f-4673-bd23-2dacf7d97d1d.png)
+![image](https://user-images.githubusercontent.com/54523080/202319538-af34a17c-0b4d-4b3d-b955-c3109e9f96a4.png)
 
 After selecting the type VCard you need to enter a value for every field related to the contact.The QR name and the First name are required.
 
@@ -94,7 +95,7 @@ After selecting the type VCard you need to enter a value for every field related
 
 #### Text
 
-![image](https://user-images.githubusercontent.com/54523080/195431775-9638ec5c-3556-4f56-9faf-e476cdbbf493.png)
+![image](https://user-images.githubusercontent.com/54523080/202299384-9b943cbf-9f8f-4c80-b118-218af41de071.png)
 
 After selecting the type Text you need to enter a value for every field:
 
@@ -107,7 +108,7 @@ Both values are required.
 
 #### WiFi
 
-![image](https://user-images.githubusercontent.com/54523080/195432158-886d8b07-8436-4864-95c4-c0ac81ae3f01.png)
+![image](https://user-images.githubusercontent.com/54523080/202299443-8e78e696-e4a8-47d0-89e9-688ab7563afe.png)
 
 After selecting the type WiFi you need to enter a value for every field:
 
@@ -123,9 +124,24 @@ The QR name and the Network Name are required.
 
 ![image](https://user-images.githubusercontent.com/54523080/195432290-6d1dd53d-493e-4cb4-8d5a-05126c6910eb.png)
 
+#### Cripto Payment
+
+![image](https://user-images.githubusercontent.com/54523080/202299491-cee2761a-2e26-4a7f-b345-7a705eab623b.png)
+
+After selecting the type Cripto Payment you need to enter a value for every field:
+
+- QR name: the name you want to use to identify the QR code in the QR codes list.
+- Blockchain: the cripto currency you want to receive via cripto payment link.
+- Addresss: the receiver wallet address in the corresponding format.
+- Additional Information: An optional message to be send together with the payment.
+
+The QR name, the Blockchain and the Address are required.
+
+![image](https://user-images.githubusercontent.com/54523080/202304564-0b8a8972-f55e-4993-aeb7-783bf09153f8.png)
+
 #### Twitter
 
-![image](https://user-images.githubusercontent.com/54523080/195432618-1acb820e-cc3c-4153-9af2-362e3183238c.png)
+![image](https://user-images.githubusercontent.com/54523080/202299552-674a9032-8c75-4829-af63-bd3b26d49003.png)
 
 After selecting the type Twitter you need to enter a value for every field:
 
@@ -143,7 +159,7 @@ The QR name field is required. It's also mandatory to enter a value for at least
 
 #### Whatsapp
 
-![image](https://user-images.githubusercontent.com/54523080/195433588-e0d491d4-5a41-419b-9127-af6c3e3d732c.png)
+![image](https://user-images.githubusercontent.com/54523080/202299589-f62c0d18-e41d-45d6-b5c2-cdfa3bf630ea.png)
 
 After selecting the type Whatsapp you need to enter a value for every field:
 
@@ -157,7 +173,7 @@ The three values are required.
 
 #### Facebook
 
-![image](https://user-images.githubusercontent.com/54523080/195433984-1961335e-f2a0-4f5b-99c2-7509e5ecab21.png)
+![image](https://user-images.githubusercontent.com/54523080/202299628-c4829a89-9e9f-4b89-a135-f2821d4ebd43.png)
 
 After selecting the type Facebook you need to enter a value for every field:
 
