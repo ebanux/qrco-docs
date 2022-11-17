@@ -2,11 +2,11 @@
 
 [The QR Link](https://www.theqr.link/) is a feature of [Ebanux Marketplace](https://www.ebanux.com/) that facilitates the design of QR codes which can be used for multiple purposes. It is available at https://app.theqr.link/
 
-![image](https://user-images.githubusercontent.com/54523080/194639591-8c188bd3-c9fc-4bbc-9dcc-b71f221aab91.png)
+![image](https://user-images.githubusercontent.com/54523080/202235267-527a1e6f-745b-4722-a3e8-e284280f3441.png)
 
 Although you can start creating static QR codes without sign in or even without register for an account, it's better if you sign in before creating a QR code. To see the benefits of getting authenticated you should read the section [Registration](registration.md). To sign in press the Login button at the top right.
 
-![image](https://user-images.githubusercontent.com/54523080/194643290-f8e0e0fb-bfc7-4644-aa80-292a4027a484.png)
+![image](https://user-images.githubusercontent.com/54523080/202235752-dee0bc63-6a29-455f-aab5-2da8404e1cfa.png)
 
 ## How to create a QR code
 
@@ -32,7 +32,7 @@ When an authenticated user access The QR Link, the admin view is shown. To creat
 
 First of all, you must make a choice of creating a Dynamic QR code or an Static QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/194652881-3004501a-9f0c-4adb-a9d4-0dcef55135c0.png)
+![image](https://user-images.githubusercontent.com/54523080/202253533-3e3e8415-ae9a-474e-aa59-a7e9f77290b7.png)
 
 When you generate a QR code, it's better if you use a **Dynamic QR code** instead of a static one. The Dynamic QR code is associated to a **Short Link** which provides two advantages: 
 
@@ -58,7 +58,7 @@ If we create the QR for the short link, no matter what target URL the short link
 
 No matter the type of QR code you want to create, the UI guide you through three steps:
 
-![image](https://user-images.githubusercontent.com/54523080/194653352-af5b1450-1a6e-472f-a29f-850f1423a824.png)
+![image](https://user-images.githubusercontent.com/54523080/202254370-cc951174-3895-44b7-b493-323cb1a2cbd4.png)
 
 1- Select the QR type
 
@@ -68,7 +68,7 @@ No matter the type of QR code you want to create, the UI guide you through three
 
 The buttons Back and Next allow you to navigate between the different steps.
 
-![image](https://user-images.githubusercontent.com/54523080/194654187-8298635d-b2d3-467f-87ee-3e38bcecf33a.png)
+![image](https://user-images.githubusercontent.com/54523080/202282021-1af39fcd-35e5-46b3-b4be-9918b3c8396e.png)
 
 The next sections explain how to create the QR code. 
 
@@ -76,13 +76,13 @@ The next sections explain how to create the QR code.
 
 At first you need to select the type of QR code you want to create, for example a QR code that links a website. Then click Next.
 
-![image](https://user-images.githubusercontent.com/54523080/194682669-cd5cf811-6e56-442e-8549-1734c02305af.png)
+![image](https://user-images.githubusercontent.com/54523080/202282654-b9cf6e55-6275-45b6-b7d5-0e265ec1bc66.png)
 
 ### Enter the QR content
 
 Then you will need to enter the QR Name, which can be useful for managing your QR codes in the Admin view and some information according to the type of QR you want to create. For example, in the case of QR for linking to a website URL you just need to enter the QR name and the URL. You can find the explanation about the data to be defined for every type of QR code in the section [How to create different types of QR codes](#how-to-create-different-types-of-qr-codes)
 
-![image](https://user-images.githubusercontent.com/54523080/194682549-20a5cee5-fe1e-457c-b7cb-37900ad54479.png)
+![image](https://user-images.githubusercontent.com/54523080/202283045-9960074e-9ee2-4c05-9381-4f50ab7e1e8e.png)
 
 After entering the QR content, you need to customize it. You should review the QR data before pressing the button Next. The customization is similar regardless the type of QR code and you can learn how to do that in the next section.
 
@@ -196,7 +196,7 @@ Finally, if you are working as an authenticated user, you can save your QR code,
 
 After saving the QR code, you can see its details in the admin view: its create and update dates, its type, which is web in the case of the example and a tag that lets you know if it's statis or dynamic.
 
-![image](https://user-images.githubusercontent.com/54523080/194683037-36248a7c-d654-4d7a-a5b9-86308b3429b4.png)
+![image](https://user-images.githubusercontent.com/54523080/202284092-25dade97-def5-422d-af4e-936d7efc70ea.png)
 
 ### How to create different types of QR codes
 
