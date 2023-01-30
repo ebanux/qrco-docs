@@ -30,7 +30,7 @@ Where you are not a consumer, you confirm that you have authority to bind the bu
 
 ### **OUR WORKFLOW PLATFORM**
 
-* Performance of the Solution. During your use of the Solution, we will ensure the platform functions as described at the point you signed up. Although we will terms-of-serviceduce technology to prevent malware and viruses we do not guarantee that our Solution will be secure or free from bugs or viruses. You are responsible for configuring your information technology, computer programs, and platform to access our Solution.
+* Performance of the Solution. During your use of the Solution, we will ensure the platform functions as described at the point you signed up. Although we use due technology to prevent malware and viruses, we do not guarantee that our Solution will be secure or free from bugs or viruses. You are responsible for configuring your information technology, computer programs, and platform to access our Solution.
 * What happens when the Solution stops working as described. In the event you report to us a substantial error with the Solution, we will seek to correct this within a reasonable amount of time.
 * We may suspend or withdraw our Solution. We do not guarantee that our Solution, or any of the Website Content or User Content, will always be available or be uninterrupted. We may suspend or withdraw or restrict the availability of all or any part of our Solution for business and operational reasons.
 

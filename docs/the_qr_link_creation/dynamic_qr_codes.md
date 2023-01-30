@@ -2,7 +2,7 @@
 
 The section [The QR Link Creation](the_qr_link_creation.md) explains the steps to create a QR code.  Before start creating a QR code, you need to decide what kind of QR code you want to create: an static QR code or a dynamic one.
 
-![image](https://user-images.githubusercontent.com/54523080/202253533-3e3e8415-ae9a-474e-aa59-a7e9f77290b7.png) 
+![image](https://user-images.githubusercontent.com/54523080/207507368-66693e6e-6e40-4b9b-abee-da78ecb02d60.png) 
 
 This section explain some details about the dynamic QR codes.
 
@@ -16,19 +16,21 @@ This section explain some details about the dynamic QR codes.
 
 - The dynamic QR code is generated from a short URL, so the QR code is less dense than an static QR code and consequently easier to read.
 
-- Some types of QR code lead the user to a microsite with specific information according to the type of QR code. The information shown in the microsite can be modified anytime you need.
+- Most of the types of Dynamic QR codes allows to implicitly create, together with a Short URL, a microsite, in other words, a mobile-friendly landing page to show the information according to the type you choose. The information shown in the microsite can be easily updated. An there's more, there are some analytics & track associated to the microsite, that way you can get statistics about the access to your microsite, such as how many visits have taken place, which devices have been used to access the Short URL, from which locations, etc. So, we prefer to call this kinds of QR codes as QR Links. A QR Link encapsulates not only the QR code but also a Short Link and a microsite with the statistics related to its use.
 
-## Types of Dynamic QR codes
+![image](https://user-images.githubusercontent.com/54523080/207641348-74e25ea1-1014-43a2-99be-a6dce1e0c02d.png)
 
-A QR code contains information such as an URL or an string of characters. Depending on the structure of that information, the QR code may lead the user to open a webpage in a browser, to send an SMS or a whatsapp message, etc. 
+## Types of  QR Links
 
-The table below shows the types of Dynamic QR codes you can create by using The QR Link.
+A QR Link contains a Short URL embeded. The Short URL may lead the user to a webpage, a payment link or to different kinds of microsites, each of them with an specific purpose. 
 
-| QR code Type    | Purpose                                                                                                                                                                                                            |
+The table below shows the types of QR Links you can create by using The QR Link.
+
+| QR Link Type    | Purpose                                                                                                                                                                                                            |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Website         | Open a webpage                                                                                                                                                                                                     |
+| Short URL       | Open a webpage                                                                                                                                                                                                     |
 | Donation        | Lead the user to a microsite that requests for a contribution. The user select how much to donate and after pressing the Donate button he/she will be redirected to a checkout page.                               |
-| VCard Plus      | Lead the user to a microsite where the contact information is shown. The user can add a contact to his/her device but some information in the microsite is not available to be added as a cellphone contact field. |
+| vCard Plus      | Lead the user to a microsite where the contact information is shown. The user can add a contact to his/her device but some information in the microsite is not available to be added as a cellphone contact field. |
 | Business        | Lead the user to a microsite where a business information is shown.                                                                                                                                                |
 | Social Networks | Lead the user to a microsite where your social links are shown.                                                                                                                                                    |
 | Link-in-Bio     | Lead the user to a microsite that shows your social links as well as additional customized links to your website, your blog, your youtube channel, etc.                                                            |
@@ -37,17 +39,19 @@ The table below shows the types of Dynamic QR codes you can create by using The 
 | Audio File      | Lead the user to a microsite where an audio file is shown.                                                                                                                                                         |
 | Gallery         | Lead the user to a microsite where one or more image files are shown.                                                                                                                                              |
 | Video file      | Lead the user to a microsite where one or more video files are shown.                                                                                                                                              |
-| Facebook        | Share an URL in Facebook                                                                                                                                                                                           |
-| Whatsapp        | Send a whatsapp message                                                                                                                                                                                            |
-| Twitter         | Share a tweet in Twitter                                                                                                                                                                                           |
+| Pet Tag Id      | Lead the user to a microsite where information about a pet is shown.                                                                                                                                               |
+| Fund Me*        | Lead the user to a microsite that requests for a contribution to a fundrising campaign with a description and a predefined goal.                                                                                   |
+| Send Me Money*  | Opea a payment link that lead the user to a checkout page.                                                                                                                                                         |
+
+\*  Coming soon. Still on development.
 
 The content of the QR code depends on the type of QR you want to create. To know what information you need to specify for every type of QR code, you should read below.
 
-#### Website
+#### Short URL
 
-![image](https://user-images.githubusercontent.com/54523080/202310402-3e3603ac-c020-4ada-994c-cf1276cb194c.png)
+![image](https://user-images.githubusercontent.com/54523080/208015677-3df3d8dd-9f51-4613-8d7d-33b89dd241d4.png)
 
-After selecting the type Website you need to enter a value for every field:
+After selecting the type Short URL you need to enter a value for every field:
 
 - QR name: the name you want to use to identify the QR code in the QR codes list.
 
@@ -55,15 +59,17 @@ After selecting the type Website you need to enter a value for every field:
 
 Both values are required.
 
-The icon below the logout button let you know you're creating a dynamic QR code.
+The icon below the Next button let you know you're creating a Dynamic QR code.
 
-![image](https://user-images.githubusercontent.com/54523080/195449115-4536c546-888e-44fb-9823-21e0797e52b5.png)
+![image](https://user-images.githubusercontent.com/54523080/208016317-0737b351-93e7-49e3-8202-be69c64b5148.png)
 
-#### Vcard Plus
+#### vCard Plus
 
-![image](https://user-images.githubusercontent.com/54523080/202310465-0406aacd-7ec5-420b-85f2-0f62dbf668ff.png)
+![image](https://user-images.githubusercontent.com/54523080/208206923-8bc5de5c-ddb6-4767-98fb-6b98c8e961d4.png)
 
-After selecting the type VCard Plus you need to enter a value for every field related to the contact. You should notice all the info will be shown in a microsite.
+After selecting the type vCard Plus you need to enter a value for every field related to the contact. You should notice all the info will be shown in a microsite.
+
+- The Content section let you enter all the data to be  shown in the microsite.
 
 - The Design section allow to customize the microsite appearance
 
@@ -71,81 +77,105 @@ After selecting the type VCard Plus you need to enter a value for every field re
 
 The QR name and the First name are required.
 
+A preview in the right side shows in real time not only the information shown in the microsite but also the microsite appearance.
+
+![image](https://user-images.githubusercontent.com/54523080/208207924-5df7d9b8-073e-461d-bcd3-ed8062442472.png)
+
 The design section allows you to customize the microsite theme, i.e., its primary and secondary colors, as well as to upload a background image and a main image. The picture below shows the design section. You can check the location of both pictures in the example of a microsite that is shown next.
 
-![image](https://user-images.githubusercontent.com/54523080/199366682-04f98098-03d0-413c-a46d-3a31b9a208c6.png)
+![image](https://user-images.githubusercontent.com/54523080/208208133-7506d468-9ec4-47ef-88ec-952c30e6e502.png)
 
-After uploading the background and main images some buttons are shown in order to facilitate the images management:
+When you upload an image, for example, the banner image, you are able to adjust the image to be used by zooming in and out and draging the image inside the visible area in order to select the section to be cropped and set as image background. To cancel press close, to crop the image and set is as background image press Done.
+
+![image](https://user-images.githubusercontent.com/54523080/208208401-834d6577-a169-4e87-a0b7-7cedd22d77b5.png)
+
+After uploading the background and main images, some buttons are shown in order to facilitate the images management:
 
 - The preview button allows you to view the image
 
 - The remove button can be used to delete the current image
 
-![image](https://user-images.githubusercontent.com/54523080/199384289-d233b5d6-14a5-4984-a85c-dd32f307b92a.png)
+![image](https://user-images.githubusercontent.com/54523080/208209904-3c0e2fcd-d0da-45c1-85a1-3eaab4497e9b.png)
 
  In the case of the main image, an additional button is shown:
 
 - This button allows you to select a shape for the main image.
   
-  ![image](https://user-images.githubusercontent.com/54523080/199387149-da297266-0f2d-499e-979b-9d25e680bb37.png)
+  ![image](https://user-images.githubusercontent.com/54523080/208210518-0b7a252d-1cc3-4285-88b4-c73526486832.png)
+
+The Background section let you choose between a single color or a gradient. In the case of the gradient you can choose the colors and the gradient direction.
+
+![image](https://user-images.githubusercontent.com/54523080/208210746-1ef7b58c-7adc-4568-92b1-35171e5d1f01.png)
+
+After customizing the microsite theme and images, you can go back to the Content section to continue entering the vCard Plus information.
+
+![image](https://user-images.githubusercontent.com/54523080/208211316-6a826570-304a-421d-9f2f-e5a30f123519.png)
 
 Since a QR of type VCard Plus leads the user to a microsite where the contact information is shown, it allows to specify  some etra information if we compare it with the Static QR of type VCard, for example the social network links.
 
 By clicking every social network you want to add to the contact information, you will be able to enter the contact username on each one. The social network component has the same behavior on every type of QR that contains social network information.
 
-![image](https://user-images.githubusercontent.com/54523080/199388852-37a57bb4-6e9e-49db-96dc-6a3d16e5d5af.png)
+![image](https://user-images.githubusercontent.com/54523080/208212336-7558abc8-877f-4a3b-a5d9-8151bb814456.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code. The share button allows you to share the microsite URL. The Share button is present in every microsite regardless its type.
 
-![01 Vcard Plus](https://user-images.githubusercontent.com/54523080/202066112-785c4674-692b-49ba-bc94-bb0b8d40a56d.png)
+![image](https://user-images.githubusercontent.com/54523080/208213065-753d71ca-3915-41f3-bfc0-f50a39af97ba.png)
 
 #### Business
 
-![image](https://user-images.githubusercontent.com/54523080/202310540-c3e55322-7fcd-479e-a2ac-742c58641fd5.png)
+![image](https://user-images.githubusercontent.com/54523080/208317455-1f22f856-bf3d-44ca-924a-c8a1f8af497a.png)
 
 After selecting the type Business you need to enter a value for every field related to the business. You should notice all the info will be shown in a microsite.
 
 The QR name and the Company name are required.
 
-![image](https://user-images.githubusercontent.com/54523080/199402478-3d41c548-b46b-4728-9955-32286aaa2d9f.png)
+![image](https://user-images.githubusercontent.com/54523080/208317567-d029698a-0d68-4b09-9e78-e6584d586f27.png)
 
-The Option button section allows to cutomize an optional button to be included in the microsite, so you need to enter the button text and the URL associated to the button.
+The Action button section allows to customize an optional button to be included in the microsite, so you need to enter the button text and the URL associated to the button.
 
-![image](https://user-images.githubusercontent.com/54523080/195452990-8794eda1-05cd-40b7-81ce-ab540116cdc7.png)
+![image](https://user-images.githubusercontent.com/54523080/208317632-765c9a17-a8ad-4eaf-b798-2d5c90ef857d.png)
 
 The Opening time allows to set the service time for every weekday
 
-![image](https://user-images.githubusercontent.com/54523080/195453332-30aad0b7-316d-46c9-8e18-a7f53474b268.png)
+![image](https://user-images.githubusercontent.com/54523080/208317956-562d4b7c-916f-4a23-affa-7ef6a3c222ac.png)
 
 The Business Easiness section allows to set the business available facilities 
 
-![image](https://user-images.githubusercontent.com/54523080/195453651-10aa4986-f2af-42e1-894e-29e41208b0f6.png)
+![image](https://user-images.githubusercontent.com/54523080/208317990-2c5f5791-fedf-4088-a246-e9d55e57e57f.png)
 
-The Social Information section allows to specify the links to social networks
+The Social Information section allows to specify the links to social networks as explained in the section related to the QR Link of type vCard Plus.
 
-![image](https://user-images.githubusercontent.com/54523080/195453790-b1a82d24-48f5-487e-baf3-c1c8fbcecaf5.png)
+![image](https://user-images.githubusercontent.com/54523080/208318040-8eeaacc3-0931-4c04-86c7-2f22f9acd981.png)
 
 The image below shows two examples of the microsite where the user is redirected after scanning the QR code.
 
-![02 Business](https://user-images.githubusercontent.com/54523080/202066121-fd15bcef-aad4-4dce-95a8-0b1e80e03a0f.png)
+![image](https://user-images.githubusercontent.com/54523080/208318418-aa2d1a82-7a0b-469c-b2bb-15365e81dd1e.png)
 
 #### Donation
 
-![image](https://user-images.githubusercontent.com/54523080/202315732-d235bc93-df60-432d-8648-9691517f7f2c.png)
+![image](https://user-images.githubusercontent.com/54523080/208319049-33b70968-8cd7-4046-b339-068ab609aa49.png)
 
 After selecting the type Donation you need to enter the information related to the donation. You should notice the donation info will be shown in a microsite.
 
 The QR name, the name of the person who gets the donation, the message and the donation price are required. The button text is optional, you can leave it blank and it will take the default value: Donate. The website URL for giving thanks is also optional, in case of specifying a URL, the supporter will be redirected to that URL after confirming the donation but can leave it blank and the user will be redirected to a default thank you page.
 
-![image](https://user-images.githubusercontent.com/54523080/201196281-078211b8-0b64-4dc7-b43e-09749e990731.png)
+![image](https://user-images.githubusercontent.com/54523080/208319077-3ae7c9c3-7c24-4ce9-af4c-e091405acb38.png)
 
-The image below shows an example of the microsite where the user is redirected after scanning the QR code and an example of the default thank you page.
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.  The default value for the quantity of coffees to be donated is 1, but the user can change it. In the case of the sample this value was set to 2. Since the coffee price  was set to \$ 3.00, the donation will be $ 6.00.  
 
-![10 Donation](https://user-images.githubusercontent.com/54523080/202066283-b5900938-b014-4cfa-8228-49e5dfee6fda.png)
+![image](https://user-images.githubusercontent.com/54523080/208319860-f833bdf8-dfa7-4664-a921-27aa2fd36a19.png)
+
+When a user press the button Donate, he/she will be redirected to a checkout page like the one below.
+
+![image](https://user-images.githubusercontent.com/54523080/208320103-03a6968f-fddc-41dc-979f-0d92824c56b2.png)
+
+After completing the checkout process the supporter will me redirected to a thank you page like the one below. In that page the user can type a message and send it to the owner of the Donation Link.
+
+![image](https://user-images.githubusercontent.com/54523080/208320295-38774d97-26bf-49ff-b5cf-0c0b5a4f3333.png)
 
 #### Social Networks
 
-![image](https://user-images.githubusercontent.com/54523080/202310628-34d3a7c6-51cf-4fb4-a6f8-62784aa441ab.png)
+![image](https://user-images.githubusercontent.com/54523080/208321766-ecfc7437-2b91-4ecf-b319-de9fbae25d1c.png)
 
 After selecting the type Social Networks you need to enter the value related to the social network you want to add, usually a username. You should notice all the info will be shown in a microsite.
 
@@ -155,7 +185,7 @@ Description (optional): Allows to set a description to be shown in the microsite
 
 The QR name and at least one social network are required.
 
-![image](https://user-images.githubusercontent.com/54523080/199408848-13f29104-8968-4dec-9fe5-e64c71f3ea32.png)
+![image](https://user-images.githubusercontent.com/54523080/208322202-87b75d16-1294-4f22-a376-70da3e78f6aa.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
@@ -163,9 +193,9 @@ The image below shows an example of the microsite where the user is redirected a
 
 #### Link-in-Bio
 
-![image](https://user-images.githubusercontent.com/54523080/202315621-0c5cd486-01eb-4ec9-bcb6-25d74efad1af.png)
+![image](https://user-images.githubusercontent.com/54523080/208322233-1e04e10d-05e2-4f58-aa27-ca4eb6062328.png)
 
-After selecting the type Links you need to enter the value related to the social network links you want to add, usually a username, as well as one or more customized links for sharing your personal URLs such as you blog, your personal website, etc. You should notice all the info will be shown in a microsite.
+After selecting the type Links you need to enter the values related to the social network links you want to add, usually a username, as well as one or more customized links for sharing your personal URLs such as you blog, your personal website, etc. You should notice all the info will be shown in a microsite.
 
 Title: Allows to set a title to be shown in the microsite
 
@@ -173,17 +203,55 @@ Description (optional): Allows to set a description to be shown in the microsite
 
 The QR name, the title and at least one customized link are required.
 
+The buttons Add and Remove allow to add a new link and remove an existing link.
 
+![image](https://user-images.githubusercontent.com/54523080/208322595-299cb477-7c93-4c46-b615-1aed82cad7dc.png)
 
-![image](https://user-images.githubusercontent.com/54523080/199410866-feac0063-b883-4398-be6d-6b6320d144c6.png)
+You can drag and drop any link by using the icon corresponding to the specific link you want to move. That way you can rearrange the links order.
+
+![image](https://user-images.githubusercontent.com/54523080/208322670-7a312983-b3d9-405e-b769-f617e3ab2da1.png)
+
+The Social Information section allows to specify the links to social networks as explained in the section related to the QR Link of type vCard Plus.
+
+![image](https://user-images.githubusercontent.com/54523080/208322833-300e6dd9-398e-4d34-9566-5a3343de7b11.png)
 
 The image below shows two examples of the microsite where the user is redirected after scanning the QR code.
 
-![04 Links](https://user-images.githubusercontent.com/54523080/202066237-06066e7a-a431-464b-b4bf-0c650a3dc4e9.png)
+![image](https://user-images.githubusercontent.com/54523080/208323172-67b43450-5441-46bb-b77a-be9717ba97ad.png) 
+
+#### Pet Tag Id
+
+![image](https://user-images.githubusercontent.com/54523080/208591889-418ab0b2-0f4b-476c-a0c9-b64533f1df3d.png)
+
+After selecting the type Pet Tag Id you need to enter the values related to the pet. You should notice all the info will be shown in a microsite.
+
+The Presentation section allows to set the pet's main info and the Contact section let you set information about its owner or carer. Keep in mind you will be able to print the QR code and place it on its collar, so anyone can scan the QR code and get information on how to return it to its home in case of getting lost.
+
+The section More info is basically for adding the pet address.
+
+The QR name and the pet name are required.
+
+![image](https://user-images.githubusercontent.com/54523080/208598933-4c8a0d8e-147e-4d3a-91ba-2b77f1826a42.png)
+
+The section More Details allows to add one or more customized details, so you need to add pairs Label+Text for every detail you want to add as shown below. The Headline is optional.
+
+![image](https://user-images.githubusercontent.com/54523080/208602551-3462e1b5-e235-497d-af92-46e200ba61fa.png)
+
+The section Links allows to add one or more links to web content. You need to add pairs Label+URL for every link you want to add as shown below. The Headline is optional.
+
+![image](https://user-images.githubusercontent.com/54523080/208605741-d14e4a02-72a9-4807-8d19-63c90aead61c.png)
+
+The Social Information section allows to specify the links to social networks as explained in the section related to the QR Link of type vCard Plus.
+
+![image](https://user-images.githubusercontent.com/54523080/208606422-c6ea3389-1f20-4154-a3b2-3580317c8dcf.png)
+
+The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+
+![image](https://user-images.githubusercontent.com/54523080/208609257-d8a2b987-35a1-43a5-bc6a-b9f61ce4185b.png)
 
 #### Coupon
 
-![image](https://user-images.githubusercontent.com/54523080/202315685-43b61421-e054-4faa-a0fb-e387d4360cee.png)
+![image](https://user-images.githubusercontent.com/54523080/208323310-aedcc4fe-53f1-4cab-87ce-0fdad596846f.png)
 
 After selecting the type Coupon you need to enter a value for every field related to the promotion. You should notice all the info will be shown in a microsite.
 
@@ -209,15 +277,15 @@ After selecting the type Coupon you need to enter a value for every field relate
 
 The QR name, Title, Button Text, Link, and Coupon code are required.
 
-![image](https://user-images.githubusercontent.com/54523080/199412146-8a09987a-ac99-43a4-b69c-bcfca4b853bd.png)
+![image](https://user-images.githubusercontent.com/54523080/208323344-f1cae078-e7c4-472e-8f1b-333912504b84.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![05 Coupon](https://user-images.githubusercontent.com/54523080/202066246-bbcbb774-bee6-4d8a-b6be-cf8b9c27c6b5.png)
+![image](https://user-images.githubusercontent.com/54523080/208323422-078155a8-5108-439d-b5f8-2f1303dc2feb.png)
 
 #### PDF file
 
-![image](https://user-images.githubusercontent.com/54523080/202315964-da55b735-e39f-4869-86cb-36f30add626b.png)
+![image](https://user-images.githubusercontent.com/54523080/208323445-48474a92-52fb-46fd-a7c8-65535ec17451.png)
 
 After selecting the type PDF file you need to enter the info related to the PDF file. You should notice the pdf file will be shown in a microsite.
 
@@ -227,15 +295,15 @@ Title (optional): Allows to set a title to be shown in the microsite
 
 Description (optional): Allows to set a description to be shown in the microsite
 
-![image](https://user-images.githubusercontent.com/54523080/199413948-7137cedf-8293-4fe9-9383-c3a3ae1b3cf0.png)
+![image](https://user-images.githubusercontent.com/54523080/208323505-460555e2-f631-4e4d-820d-2d85ad3b210c.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![09 PDF](https://user-images.githubusercontent.com/54523080/202066271-1f3ac5fc-bf9a-4807-b174-6f5fdd40734c.png)
+![image](https://user-images.githubusercontent.com/54523080/208323634-8aa57c9c-2d7d-4109-99a6-2a9e66e75c6f.png)
 
 #### Audio file
 
-![image](https://user-images.githubusercontent.com/54523080/202316012-1a04817e-0e70-46b1-bbd2-96aad5d403ab.png)
+![image](https://user-images.githubusercontent.com/54523080/208323724-91bfe923-5f52-4935-83bd-83df44879f57.png)
 
 After selecting the type Audio file you need to enter the info related to the Audio file. You should notice the audio file will be shown in a microsite.
 
@@ -245,15 +313,15 @@ Title (optional): Allows to set a title to be shown in the microsite
 
 Description (optional): Allows to set a description to be shown in the microsite
 
-![image](https://user-images.githubusercontent.com/54523080/199418854-1ece8b5c-84ab-46c8-8989-3c0798d0f417.png)
+![image](https://user-images.githubusercontent.com/54523080/208323752-5978fcd4-ddc5-4012-8319-3a9ccf5736a3.png)
 
 The image below shows an example of the microsite where the user is redirected after scanning the QR code.
 
-![06 Audio](https://user-images.githubusercontent.com/54523080/202066252-d5bcd5cf-0374-4985-ae56-959beb9d5a11.png)
+![image](https://user-images.githubusercontent.com/54523080/208323814-23ee878c-a48b-4a50-b5b1-9d171762ab67.png)
 
 #### Gallery
 
-![image](https://user-images.githubusercontent.com/54523080/202316258-eee70661-7385-41c9-8705-0e64224d96e2.png)
+![image](https://user-images.githubusercontent.com/54523080/208323889-c0250235-e23f-4a0f-a4bc-5667f18663d1.png)
 
 After selecting the type Gallery  you need to enter the info related to the Image files. You should notice the image files will be shown in a microsite.
 
@@ -263,15 +331,15 @@ Title (optional): Allows to set a title to be shown in the microsite
 
 Description (optional): Allows to set a description to be shown in the microsite
 
-![image](https://user-images.githubusercontent.com/54523080/199419683-fd211a0d-4a06-4aa9-b3f6-d2a9c04950ba.png)
+![](C:\Users\joe\AppData\Roaming\marktext\images\2022-12-18-18-03-44-image.png)
 
-The image below shows an example of the microsite where the user is redirected after scanning the QR code.
+The image below shows an example of the microsite where the user is redirected after scanning the QR code. When you tap on an image, a mobile-friendly image viewer let you watch the images in detail, move easily from image to another, download an image, etc.
 
-![08 Gallery](https://user-images.githubusercontent.com/54523080/202066267-c89e0a94-fc24-48f9-b2c1-f4cdf2b968f2.png)
+![image](https://user-images.githubusercontent.com/54523080/208324128-b3bccacf-1732-4c60-842a-001f6266d0ba.png)
 
 #### Video file
 
-![image](https://user-images.githubusercontent.com/54523080/202316359-47036b4d-fa9f-40ae-921d-a0e0fd97b07f.png)
+![image](https://user-images.githubusercontent.com/54523080/208324240-596ee2e0-fccf-4e7b-9b07-370a184dab00.png)
 
 After selecting the type Video file you need to enter the info related to the video files. You should notice the video files will be shown in a microsite.
 
@@ -281,53 +349,8 @@ Title (optional): Allows to set a title to be shown in the microsite
 
 Description (optional):  Allows to set a description to be shown in the microsite
 
-![image](https://user-images.githubusercontent.com/54523080/199423871-df4999c7-2b9e-4a0f-861d-5996eb8f4a39.png)
+![image](https://user-images.githubusercontent.com/54523080/208324344-d9727a73-6ce9-461d-aa19-ff7a330138a8.png)
 
 The image below shows two examples of the microsite where the user is redirected after scanning the QR code. The first one shows only one video. The other one contains three videos.
 
-![07 Video](https://user-images.githubusercontent.com/54523080/202066265-8b58b622-16fa-444e-b35f-7c1f9d5c294a.png)
-
-#### Twitter
-
-![image](https://user-images.githubusercontent.com/54523080/202315792-4c457390-0ce4-43d6-9282-37250598ad18.png)
-
-After selecting the type Twitter you need to enter a value for every field:
-
-- QR name: the name you want to use to identify the QR code in the QR codes list.
-- Text: the tweet content.
-- Mention: a username to be targeted in your tweet (without the @ symbol)
-- Hashtags: a comma separated list of hashtags to be included in the tweet (without the # symbol)
-- URL: an URL to be shared in the tweet
-
-All the elements are grouped in the tweet in the order: Text, URL, Hashtags, Mention. The max tweet size is 280 characters.
-
-The QR name field is required. It's also mandatory to enter a value for at least one field from the list: Text, Mention, Hashtag or URL.
-
-![image](https://user-images.githubusercontent.com/54523080/195456721-b03938d4-7ea9-4e44-a4c9-889406feb87d.png)
-
-#### Whatsapp
-
-![image](https://user-images.githubusercontent.com/54523080/202315853-d910f4b3-ed06-4f94-816e-1b758d8d30da.png)
-
-After selecting the type Whatsapp you need to enter a value for every field:
-
-- QR name: the name you want to use to identify the QR code in the QR codes list.
-- The cellphone number registered in whatsapp, including the contry code, for example +1.
-- Message: The whatsapp message (may include emojis)
-
-The three values are required.
-
-![image](https://user-images.githubusercontent.com/54523080/195456821-07e59c17-2c90-49b1-8a10-f80d0e444132.png)
-
-#### Facebook
-
-![image](https://user-images.githubusercontent.com/54523080/202315889-d4f2ed5d-7dfa-4235-9c1c-df2d5e39313a.png)
-
-After selecting the type Facebook you need to enter a value for every field:
-
-- QR name: the name you want to use to identify the QR code in the QR codes list.
-- Post: A URL you want to share in facebook.
-
-Both values are required.
-
-![image](https://user-images.githubusercontent.com/54523080/195456862-42c3b357-32ba-401d-9674-7ad0e1e5b1ea.png)
+![image](https://user-images.githubusercontent.com/54523080/208324540-5b81c521-f0aa-4a71-a396-f321c8dbd7d3.png)

@@ -2,7 +2,7 @@
 
 [The QR Link](https://www.theqr.link/) is a feature of [Ebanux Marketplace](https://www.ebanux.com/) that facilitates the design of QR codes which can be used for multiple purposes. It is available at https://app.theqr.link/
 
-![image](https://user-images.githubusercontent.com/54523080/202235267-527a1e6f-745b-4722-a3e8-e284280f3441.png)
+![image](https://user-images.githubusercontent.com/54523080/207484860-7f5fcac1-0bc5-4b42-bc9e-01e512290360.png)
 
 You can use the The QR Link to create static QR codes for free, so you don't need to sign in for creating a static QR code. However there are some limitations when you use the platform without getting authenticated:
 
@@ -20,9 +20,13 @@ So, we strongly recommend to register for an account and sign in before start de
 
 - When you edit a Dynamic QR code you can modify both its design and the associated content while the QR code remains invariable. The Dynamic QR code contains a short URL which point to a target URL. The target URL can be changed when you edit the Dynamic QR code so you can change the associated content; however the code remains invariable because the short URL never change.
 
+- Most of the types of Dynamic QR codes allows to implicitly create, together with a Short URL, a microsite, in other words, a mobile-friendly landing page to show the information according to the type you choose. The information shown in the microsite can be easily updated. An there's more, there are some analytics & track associated to the microsite, that way you can get statistics about the access to your microsite, such as how many visits have taken place, which devices have been used to access the Short URL, from which locations, etc. So, we prefer to call this kinds of QR codes as QR Links. A QR Link encapsulates not only the QR code but also a Short Link and a microsite with the statistics related to its use.
+
+![image](https://user-images.githubusercontent.com/54523080/207641348-74e25ea1-1014-43a2-99be-a6dce1e0c02d.png)
+
 To sign in and enjoy the benefits of working as an authenticated user, press the button Login at the top right.
 
-![image](https://user-images.githubusercontent.com/54523080/202235752-dee0bc63-6a29-455f-aab5-2da8404e1cfa.png)
+![image](https://user-images.githubusercontent.com/54523080/207485380-5d182e3d-4d98-4f90-a047-17de11a2713e.png)
 
 If you have an account, you can enter your email and password and press Sign In.
 
@@ -30,11 +34,11 @@ If you have an account, you can enter your email and password and press Sign In.
 
 If you access The QR Link solution at https://app.theqr.link/  for the first time, you need to register for an account in the tab Create Account.
 
-![image](https://user-images.githubusercontent.com/54523080/191136397-7b8a844c-3148-4b4d-8dc4-165664a57891.png)
+![image](https://user-images.githubusercontent.com/54523080/207486186-09a71f5b-090a-4030-8103-27a932726597.png)
 
 For creating an account you need to enter an email and a password and press the button Create Account.
 
-![image](https://user-images.githubusercontent.com/54523080/191136719-0ec492b3-19cd-4ec4-93b5-bb5dcbed4c8d.png)
+![image](https://user-images.githubusercontent.com/54523080/207486333-d5689be5-c7d9-492c-a120-9fa593acf881.png)
 
 Then you will receive a confirmation code via email, so you will need to enter the code and press the Confirm button.
 
@@ -42,6 +46,6 @@ Then you will receive a confirmation code via email, so you will need to enter t
 
 After confirming your email, you will be redirected to the admin view and the authenticated user is shown in the bottom right. As you can see in the picture below, after registering in The QR Link, you start a trial period. So, you will need to buy a plan before your trial period expires. 
 
-![image](https://user-images.githubusercontent.com/54523080/202237909-4ea58e51-7385-48dc-aa88-7837891a7e74.png)
+![image](https://user-images.githubusercontent.com/54523080/207492302-e6238c3a-bac6-49ed-ab1f-b53df3839576.png)
 
 To know how to buy a plan you should read the section [Plans](plans.md). To learn how to create a QR code you should read the section: [How to create a QR code](the_qr_link_creation.md) 
