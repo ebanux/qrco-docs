@@ -2,17 +2,17 @@
 
 When you create an account in The QR Link, you start a 14 days trial period. The UI notifies the remaining days.  
 
-![image](https://user-images.githubusercontent.com/54523080/202285695-886c6dd9-5c2d-4cd7-b001-2abb6871b8c8.png)
+![image](https://user-images.githubusercontent.com/54523080/207493723-e249744a-97cc-45a4-b62b-8bf1fd88e96b.png)
 
 When the trial period ends, you must buy a plan for continuing using The QR Link. To know our plans you should review the pricing section in the landing page: https://www.theqr.link/#prices or you can enter directly to the Plans view: https://app.theqr.link/plans by following the link in the reminder:
 
-![image](https://user-images.githubusercontent.com/54523080/202287441-d020cdd5-4153-469e-89ee-f7fa24f40680.png)
+![image](https://user-images.githubusercontent.com/54523080/207494030-d42f9054-5683-47b4-965a-b6e23051611a.png)
 
 ### Buy a plan
 
 To buy a plan you need to  choose the plan that fits your needs and press the button Subscribe
 
-![image](https://user-images.githubusercontent.com/54523080/202289237-5eb4bb79-559d-4cc0-ae81-2370c408e9b2.png)
+![image](https://user-images.githubusercontent.com/54523080/207497035-b19ad552-b45d-4f4b-8338-1f847bf9f9df.png)
 
 After selecting you plan and pressing Subscribe, you will be redirected to a checkout page like the one below.
 
@@ -38,12 +38,12 @@ After confirming the new plan you can go back to The QR Link by pressing the but
 
 ![image](https://user-images.githubusercontent.com/54523080/192067612-92500ce7-3d5b-4bd6-a61c-2b7357aa947c.png)
 
-When you go back to The QR Link you can see the trial advice is no longer shown. To start creating QR codes press the button My QR CODES to exit the plans view.
+When you go back to The QR Link you can see the trial advice is no longer shown. To start creating QR codes press the button My QR Links to exit the plans view.
 
-![image](https://user-images.githubusercontent.com/54523080/202293921-ee09599e-fd0a-4d68-8797-e94e74735191.png)
+![image](https://user-images.githubusercontent.com/54523080/207499039-b07dfeca-3f63-4307-9316-58ec0183923e.png)
 
 After exiting the plans view, the admin view is shown.
 
-![image](https://user-images.githubusercontent.com/54523080/192068458-3fde923e-6a33-470c-a951-52e305e57330.png)
+![image](https://user-images.githubusercontent.com/54523080/207499469-ff04de84-b524-4479-8256-36dd8d413588.png)
 
-To learn how to create a QR code you should read the section: [How to create a QR code](the_qr_link_creation.md)
+To learn how to create a QR Link you should read the section: [How to create a QR Link](the_qr_link_creation.md)
