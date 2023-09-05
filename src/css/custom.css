@@ -83,3 +83,10 @@ html[data-theme='dark'] a {
   color: var(--ifm-color-primary-light);
 }
 
+article a{
+  color: blue;
+}
+
+article a:visited{
+  color: blue;
+}

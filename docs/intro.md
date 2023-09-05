@@ -4,25 +4,57 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **The QR Link in less than 15 minutes**.
+Welcome to **QRLynk**, your go-to platform for effortlessly creating and customizing Mobile-optimized pages linked to QR codes in just a few simple steps, all in less than 15 minutes.
 
-[The QR Link](https://www.theqr.link/) is a feature of [Ebanux Marketplace](https://www.ebanux.com/) that facilitates the design of QR codes which can be used for multiple purposes. It is available at https://app.theqr.link/
+[QRLynk](https://www.theqr.link/) is a powerful feature of [Ebanux Marketplace](https://www.ebanux.com/) that streamlines the creation of Mobile-optimized pages linked to QR codes. You can access it at [https://app.theqr.link](https://app.theqr.link).
 
-![image](https://user-images.githubusercontent.com/54523080/194639591-8c188bd3-c9fc-4bbc-9dcc-b71f221aab91.png)
+![Main View](https://github.com/ebanux/qrco-docs/assets/54523080/5d2e13ad-1b87-4bea-b856-7874ab58aba8)
 
-The QR Link allows to create and customize your QR code and frame easily. You just need to follow **four simple steps**:
+Creating a Mobile-optimized page is a breeze, and you'll find that it offers a plethora of possibilities for various purposes. To get started, follow these four straightforward steps:
 
-1. Choose the type of QR code
-2. Enter the data according to the type of QR.
-3. Customize your QR code
-4. Download and Share the QR code
+1. Select the type of Mobile-optimized page you'd like to create.
+2. Add your content, tailored to the chosen page type.
+3. Customize the appearance and design of your Mobile-optimized page to make it truly unique.
+4. Generate and Share the Mobile-optimized page with your audience by using the associated QR code.
 
-Its **main features** are:
+Let's delve into some of the **key features** that make QRLynk an indispensable tool for your business:
 
-- The capability of customizing your QR code and frame in an easy way
+- **Monetization Capabilities**: Unlock new revenue streams with features like Donations and the 'Send Me Money' QRLynk type, empowering you to receive payments conveniently through your Mobile-optimized pages.
 
-- When the QR code is connected with a short URL, it becomes a Dynamic QR code, where you can change the associated content at any time. Since a Dynamic QR code is generated from a short URL, it's less dense compare to a QR code that contains an static URL, so it's easier to read.
+- **Versatile Page Templates**: Create stunning Mobile-optimized pages effortlessly by choosing from a variety of professionally designed templates that suit your content, whether it's for personal branding, showcasing products, or sharing event details.
 
-- To download the QR code, you can choose between png, svg or pdf. The pdf feature allows to customize the page size, the QR size and the number of QR per page, so you can save materials when  printing.
+- **Preloaded Assets**: Enhance your pages with preloaded assets that can be used as banners or background images, providing a captivating visual experience.
 
-- Sellers can use payment links to display it anywhere on the internet as a QR code, just by sharing the QR code with customers.
+- **Customizable Social Links**: Seamlessly integrate your social media presence by adding personalized links, buttons, or icons, ensuring that your audience can connect with you effortlessly.
+
+- **Action Buttons**: Elevate user engagement with customizable action buttons offering six different actions to interact with your content.
+
+- **Tailored Links**: Personalize your links as URLs or buttons, directing your audience to relevant web pages or actions with a click.
+
+- **Button Design Customization**: Fine-tune the design of your buttons to align perfectly with your brand identity.
+
+- **Icon Customization**: Make a lasting impression with customizable icons for your buttons, adding an extra layer of personalization.
+
+- **Donation Section**: Foster support and contributions by including a Donation section on any type of Mobile-optimized page.
+
+- **Robust Dashboard**: Gain insights and effortlessly track your page performance, as well as manage donations, with a user-friendly dashboard.
+
+- **Flexible Section Arrangement**: Arrange sections to suit your content flow, giving you complete control over the layout and structure of your Mobile-optimized pages.
+
+- **Section Appearance Customization**: Personalize section appearance by choosing between collapsible sections or tabs, enhancing user navigation.
+
+- **Contact Form**: Foster direct communication with your audience by adding a contact form to any type of Mobile-optimized page.
+
+- **Subscription Option**: Allow visitors to subscribe to receive updates directly from you, building a loyal audience.
+
+- **Owner Contact**: Provide an easy way for users to contact you directly from the main menu, promoting open communication.
+
+## Learn more
+
+To learn more about QRLynk, you can explore the following sections:
+
+- **Frequently Asked Questions:** Find answers to common queries in the [FAQ](faqs) section.
+- **How To Guides:** Discover how to create pages and QR codes in the [How To](how_to) section.
+- **Registration:** Learn how to register with QRLynk in the [Registration](registration/registration) section.
+- **Plans:** Explore the benefits of our plans in the [Plans](registration/plans) section.
+- **Claim a QRLynk:** Find out how to claim a QRLynk in the [Claim a QRLynk](claim/claim_intro) section.
