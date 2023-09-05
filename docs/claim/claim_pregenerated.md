@@ -1,0 +1,3 @@
+# Claim a Pregenerated QRLynk
+
+To Claim a QRLynk....

@@ -20,16 +20,34 @@ const sidebars = {
  
   tutorialSidebar: [
     'intro', 
+	'faqs',
+	'how_to',
     {
       type: 'category',
-      label: 'The QR Link Creation',
-      items: ['the_qr_link_creation/registration','the_qr_link_creation/plans','the_qr_link_creation/the_qr_link_creation', 'the_qr_link_creation/static_qr_codes', 'the_qr_link_creation/dynamic_qr_codes'],
+      label: 'Registration & Plans',
+      items: ['registration/registration','registration/plans'],
     },	
     {
       type: 'category',
-      label: 'The QR Link Design',
-      items: ['the_qr_link_design/the_qr_link_design','the_qr_link_design/samples', 'the_qr_link_design/tips'],
+      label: 'Create a Page',
+      items: ['page/create_page'],
+    },		
+    {
+      type: 'category',
+      label: 'Create a QRLynk',
+      items: ['qrlynk/create_qrlynk'],
     },	
+	{
+      type: 'category',
+      label: 'QRLynk Management',
+      items: ['qrlynk/manage','page/manage'],
+    },	
+    {
+      type: 'category',
+      label: 'Claim a QRLynk',
+      items: ['claim/claim_intro','claim/claim_pregenerated','claim/claim_general'],
+    },	
+	'support'
   ],
    
    
