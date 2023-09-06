@@ -16,7 +16,7 @@ When it comes to Claiming a QRLynk, there are two distinct types you can explore
 
 ### Pregenerated QRLynks
 
-Pregenerated QRLynks are associated with products purchased in our stores. These QRLynks are a valuable addition to your product packaging, providing easy access to relevant information. The best part? Pregenerated QRLynks are completely free, and you don't need a subscription plan to claim them. It's a one-time payment for the product, and you get the QRLynk with it.
+Pregenerated QRLynks are associated with products purchased in our stores on [Amazon](https://www.amazon.com/stores/page/FF316102-847A-40BA-811F-53F2C7434A83) and [Etsy](https://qrlynk.etsy.com/). These QRLynks are a valuable addition to your product packaging, providing easy access to relevant information. The best part? Pregenerated QRLynks are completely free, and you don't need a subscription plan to claim them. It's a one-time payment for the product, and you get the QRLynk with it.
 
 ### Custom QRLynks
 
