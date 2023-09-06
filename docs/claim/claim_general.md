@@ -1,3 +1,0 @@
-# Claim a QRLynk
-
-To Claim a QRLynk....

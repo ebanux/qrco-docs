@@ -23,6 +23,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+		  routeBasePath: '/docs',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/ebanux/qrco-docs/edit/master/',
         },
@@ -41,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'The QR Link - Docs',
+        //title: 'The QR Link - Docs',
         // logo: {
         //   alt: 'Cenit I0 - Docs Logo',
         //   src: 'img/logo2.svg',

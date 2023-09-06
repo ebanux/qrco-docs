@@ -22,12 +22,11 @@ Here, you can see details such as the plan type, subscription period, and any as
 
 5. **Manage Subscription:** If you wish to make changes to your subscription plan, you may find options to upgrade, downgrade, or cancel your plan based on your preferences. Simply follow the provided prompts to make the desired changes.
 
-
-
 QRLynk offers a variety of subscription plans, each with its unique features and benefits. Reviewing your plan ensures you are always aware of your current subscription status and can make adjustments as needed.
 
 | **Features**                                               | **Free Plan** | **Basic Plan** | **Business Plan** | **Premium Plan** |
 | ---------------------------------------------------------- | ------------- | -------------- | ----------------- | ---------------- |
+| Price                                                      | -             | 9 USD          | 15 USD            | 45 USD           |
 | Number of Mobile-optimized Pages                           | 1             | 50             | 100               | 500              |
 | Price per additional page                                  | N/A           | 0.18           | 0.15              | 0.09             |
 | PreGenerated QRLynks associated with products in our store | Unlimited     | Unlimited      | Unlimited         | Unlimited        |
@@ -56,55 +55,33 @@ QRLynk offers a variety of subscription plans, each with its unique features and
 ## Selecting and Subscribing to a Plan
 
 1. In the list of plans, select the plan that suits you best and click the "Subscribe" button corresponding to your chosen plan. 
-   
-   
-   
+
    ![Plans 04](https://github.com/ebanux/qrco-docs/assets/54523080/f4a520a9-ab61-4961-82bd-19f3f1691b34)
-   
-   
-   
+
    You will then be directed to a Stripe checkout page to enter your banking information and complete the plan purchase. 
-   
-   
-   
+
    ![Plans 05](https://github.com/ebanux/qrco-docs/assets/54523080/fc22f0a6-82d9-4ef2-93f7-131c08f39b2c)
-   
-   
+
 2. Enter your banking information on the Stripe checkout page and click the "Subscribe" button to complete the purchase.
    
    ![Plans 06](https://github.com/ebanux/qrco-docs/assets/54523080/857ff1bf-751e-4c5e-8d0f-d8ffcc5ac1a9)
-   
-   
-   
+
    You will receive a notification once the payment is successfully processed.
-   
-   
-   
+
    ![Plans 07](https://github.com/ebanux/qrco-docs/assets/54523080/e148daa0-0132-4d23-9f75-b2a6cf135aab)
 3. After completing the payment, you will be redirected back to the QRLynk Plans view.
-   
-   
-   
+
    ![Plans 08](https://github.com/ebanux/qrco-docs/assets/54523080/30c9469b-8f85-4c96-b776-d8426f2be79e)
-   
-   
+
 4. Optionally, you can press the "Review Plan" button to review the purchased plan.
-   
-   
-   
+
    ![Plans 09](https://github.com/ebanux/qrco-docs/assets/54523080/f417ad49-5266-4b15-9f4d-40a853e13fa9)
-   
-   
+
 5. Alternatively, you can return to your main view by pressing the "My QRLynks" button.
-   
-   
-   
+
    ![Plans 10](https://github.com/ebanux/qrco-docs/assets/54523080/b38574c3-dd93-46e3-940e-d140c704425d)
-   
-   
+
 6. From the main view, you can review your subscription and confirm that you have purchased the desired plan.
-   
-   
-   
+
    ![Plans 11](https://github.com/ebanux/qrco-docs/assets/54523080/026afe25-d603-4925-b570-4281e6a8954a)
 7. 

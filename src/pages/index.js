@@ -1,7 +1,6 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
@@ -13,13 +12,6 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            The QR Link Tutorial - 15min ⏱️
-          </Link>
-        </div>
       </div>
     </header>
   );
@@ -27,6 +19,12 @@ function HomepageHeader() {
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
+
+  // Redirección automática a la página de documentación
+  useEffect(() => {
+    window.location.href = '/docs/'; // Reemplaza con la ruta correcta
+  }, []);
+
   return (
     <Layout
       title={`${siteConfig.title}`}

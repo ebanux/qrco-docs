@@ -45,7 +45,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Claim a QRLynk',
-      items: ['claim/claim_intro','claim/claim_pregenerated','claim/claim_general'],
+      items: ['claim/claim_intro','claim/claim_pregenerated','claim/claim_custom'],
     },	
 	'support'
   ],
