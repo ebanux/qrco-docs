@@ -84,7 +84,9 @@ After pressing the button to contribute, your supporter will be redirected to a 
 
 #### Is there any fee for using the QRLynk of type Donation?
 
-Creating a QRLynk of type Donation incurs a flat fee of 2.9% + 30¢ per transaction charged by Stripe, with no extra fees from the QRLynk platform. So, regardless of the donation amount, the transactional fee is always $0.59. It's important to keep in mind that there may be additional fees when transferring funds to your bank account.
+Creating a QRLynk of type Donation incurs a flat fee of 2.9% + 30¢ per transaction charged by Stripe. For example, for a $10 USD donation, the fee would be calculated as follows: 2.9% of $10 USD is $0.29, plus the additional 30¢, resulting in a total fee of $0.59. 
+
+It's important to note that there are no additional fees from the QRLynk platform; this fee is solely charged by Stripe. Additionally, keep in mind that there may be additional fees when transferring funds to your bank account.
 
 ### QRLynk Products
 

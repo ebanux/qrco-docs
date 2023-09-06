@@ -1,6 +1,6 @@
 # Claiming a Pregenerated QRLynk
 
-When you receive a product you've purchased on Amazon or Etsy, the associated QR code isn't initially active. To activate it and ensure that the desired Mobile-optimized page is displayed when the QR code on your product is scanned, the first thing you need to do is **Claim your QRLynk**. This process is a one-time requirement and is entirely free.
+When you receive a product you've purchased on [Amazon](https://www.amazon.com/stores/page/FF316102-847A-40BA-811F-53F2C7434A83) or [Etsy](https://qrlynk.etsy.com/), the associated QR code isn't initially active. To activate it and ensure that the desired Mobile-optimized page is displayed when the QR code on your product is scanned, the first thing you need to do is **Claim your QRLynk**. This process is a one-time requirement and is entirely free.
 
 Claiming your QRLynk provides the following benefits:
 

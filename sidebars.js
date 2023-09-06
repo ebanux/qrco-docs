@@ -24,6 +24,11 @@ const sidebars = {
 	'how_to',
     {
       type: 'category',
+      label: 'Claim a QRLynk',
+      items: ['claim/claim_intro','claim/claim_pregenerated','claim/claim_custom'],
+    },		
+    {
+      type: 'category',
       label: 'Registration & Plans',
       items: ['registration/registration','registration/plans'],
     },	
@@ -41,11 +46,6 @@ const sidebars = {
       type: 'category',
       label: 'QRLynk Management',
       items: ['qrlynk/manage','page/manage'],
-    },	
-    {
-      type: 'category',
-      label: 'Claim a QRLynk',
-      items: ['claim/claim_intro','claim/claim_pregenerated','claim/claim_custom'],
     },	
 	'support'
   ],
