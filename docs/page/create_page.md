@@ -63,6 +63,14 @@ Even if you initially selected a template, you are free to change it to any othe
 
 ![Create 08](https://github.com/ebanux/qrco-docs/assets/54523080/4a4e4957-c69b-48d1-9c54-d3a7bfd149c8)
 
+When you haven't started editing the content of the sections and decide to change the template, the new template will be taken as it appears by default. This allows you to switch between templates until you find the one that best suits what you're looking for. For example, we've changed the template, and the Donation section from the previous template hasn't been included because we haven't started editing the content of that Donation section yet, as shown in the image below.
+
+![Create 08 A](https://github.com/ebanux/qrco-docs/assets/54523080/3544db01-4667-4c7e-8155-9538db19845f)
+
+If you're concerned that changing templates after editing content might cause you to lose the entered content, don't worry. Once you've edited the content and decide to change the template, the previous content will be adapted to fit the design of the new template. This way, you can preserve your current content and easily apply the design of the new template. To continue with the explanation, let's switch back to the previous template.
+
+![Create 08 B](https://github.com/ebanux/qrco-docs/assets/54523080/409e5cb9-aff9-49e1-b80c-85623c175498)
+
 ### Sections Edition
 
 The content of your page is composed of sections. Regardless of whether the page is created from a template with a predefined set of sections, these sections can be edited freely. You have the flexibility to not only modify the content within each section but also rearrange, delete, or add new sections as needed. 
