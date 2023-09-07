@@ -35,7 +35,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Create a Page',
-      items: ['page/create_page'],
+      items: ['page/create_page', 'page/sections', 'page/design'],
     },		
     {
       type: 'category',
@@ -45,7 +45,7 @@ const sidebars = {
 	{
       type: 'category',
       label: 'QRLynk Management',
-      items: ['qrlynk/manage','page/manage'],
+      items: ['page/manage','qrlynk/manage'],
     },	
 	'support'
   ],
