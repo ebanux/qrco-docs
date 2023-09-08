@@ -40,7 +40,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Create a QRLynk',
-      items: ['qrlynk/create_qrlynk'],
+      items: ['qrlynk/create_qrlynk', 'qrlynk/design', 'qrlynk/static'],
     },	
 	{
       type: 'category',

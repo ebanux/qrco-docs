@@ -1,11 +1,11 @@
 # Create a Mobile-optimized Page
 
-Creating a Mobile-optimized page is a breeze, and you'll find that it offers a plethora of possibilities for various purposes. To get started, follow these four straightforward steps:
+Creating a **Mobile-optimized page** is a breeze, and you'll find that it offers a plethora of possibilities for various purposes. To get started, follow these four straightforward steps:
 
-1. Select the type of Mobile-optimized page you'd like to create.
-2. Add your content, tailored to the chosen page type.
-3. Customize the appearance and design of your Mobile-optimized page to make it truly unique.
-4. Generate and Share the Mobile-optimized page with your audience by using the associated QR code.
+1. **Select the type of Mobile-optimized page** you'd like to create.
+2. **Add your content**, tailored to the chosen page type.
+3. **Customize the appearance and design** of your Mobile-optimized page to make it truly unique.
+4. **Generate and Share the Mobile-optimized page** with your audience by using the associated QR code.
 
 ## What is a Mobile-optimized Page?
 
@@ -43,7 +43,7 @@ When creating your Mobile-optimized Page, you have two options for selecting the
 
 - **Choose by Page Type:** If you opt for this method, you first select the type of page you'd like to create from the available options. Once you've chosen the page type, you can then select one of the templates associated with that specific page type. This allows you to create a page tailored to your specific needs while ensuring a coherent design.
   
-  ![Create 04](https://github.com/ebanux/qrco-docs/assets/54523080/e4bf046e-e4ce-4b89-a277-c7775b26c86d)
+  ![Create 04 A](https://github.com/ebanux/qrco-docs/assets/54523080/f2c8da20-e5c0-46cf-9ca9-1a58df070305)
 
 Once you have made your choice, whether by template or by page type, click the "Next" button to proceed.
 
@@ -207,7 +207,7 @@ Simply hit the code in the Short URL, and a modal window will open, allowing you
 
 ![Design 15](https://github.com/ebanux/qrco-docs/assets/54523080/eecccc11-e1cf-4757-8e5e-34ce05b09299)
 
-Enter your preferred code, wait for confirmation that it's available, and hit the "OK" button.
+A quick alternative is to hit the code, and you'll achieve the same result as selecting the "Edit" option: a modal window will appear, allowing you to edit the code in the Short URL with your desired value. Afterward, wait for confirmation that the code is available, and then press the "OK" button.
 
 ![Design 16](https://github.com/ebanux/qrco-docs/assets/54523080/2ecc42c5-5559-4107-af7e-38ac8f8c21f8)
 
