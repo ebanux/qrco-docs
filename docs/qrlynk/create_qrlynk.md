@@ -24,11 +24,11 @@ To begin creating your QRLynk, follow these steps:
 
 1. **Log in** to your QRLynk account. If you don't have an account yet, you can learn how to register [here](../registration/registration).
    
-   ![Create QRLynk 01](https://github.com/ebanux/qrco-docs/assets/54523080/98df942a-7a22-4345-ba78-e3dd4230c013)
+   ![Create QRLynk 01](https://github.com/ebanux/qrco-docs/assets/54523080/f454a2ba-0a9d-4121-b3bd-e102f246310d)
 
 2. Click the **Create** button.
    
-   ![Create 01](https://github.com/ebanux/qrco-docs/assets/54523080/93acb54c-6a0e-41e8-b9c9-f33fa932f4c6)
+   ![Create QRLynk 01A](https://github.com/ebanux/qrco-docs/assets/54523080/800814c4-5239-4546-9418-a4acfb07a511)
 
 3. From the available options, select **QR code**. This option allows you to create a QRLynk, giving you the flexibility to customize the Short URL, page content, and even the QR code itself. Additionally, you can create a static QR code if needed.
    
