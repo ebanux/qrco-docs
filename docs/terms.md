@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 Ebanux, Inc.
+Delaware, USA
 
 Last updated: February 12, 2024
 
