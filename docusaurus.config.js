@@ -72,11 +72,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Roadmap',
-                href: 'https://theqrlink.frill.co/roadmap',
+                to: '/docs/',
               },
               {
                 label: 'Terms of Service',
@@ -98,15 +94,6 @@ const config = {
               {
                 label: 'Youtube',
                 href: 'https://www.youtube.com/channel/UCXwX-C-UlF-5jDuHch3Ze3w',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                href: 'https://theqrlink.frill.co/b/8my3prv7/feature-ideas',
-                label: 'Feature ideas',
               },
             ],
           },
