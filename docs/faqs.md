@@ -52,7 +52,7 @@ QRLynk offers various types of Dynamic QR codes, each associated with a specific
 
 #### Can I track the performance of my Mobile-optimized Pages and QR codes?
 
-Yes, QRLynk offers detailed analytics that show the number of scans, devices used, and other essential metrics for your Mobile-optimized Pages and QR codes. This data helps you measure the effectiveness of your marketing campaigns and make informed decisions.
+Yes, QRLynk offers detailed analytics that shows the number of scans, devices used, and other essential metrics for your Mobile-optimized Pages and QR codes. This data helps you measure the effectiveness of your marketing campaigns and make informed decisions.
 
 ### Registration and plans
 
@@ -66,15 +66,15 @@ Absolutely! Registering on the QRLynk platform is free, and you can create your 
 
 #### Where can I find information about the different plans and pricing?
 
-You can find detailed information about the available plans and their features on the [pricing section](https://theqr.link/#prices) of the QRLynk website. This section provides a clear overview of the options and pricing, making it easy for you to choose the plan that best suits your needs and budget.
+You can find detailed information about the available plans and their features on the [pricing section](https://web.a-qr.link/#prices) of the QRLynk website. This section provides a clear overview of the options and pricing, making it easy for you to choose the plan that best suits your needs and budget.
 
 ### Monetization
 
 #### What kinds of QRLynks are available for monetization?
 
-QRLynk offers various types of QRLynks that can be monetized, including Donation QR codes and upcoming features like Send Me Money and Fundraising QR codes. With QRLynk's Mobile-optimized Pages, you have the flexibility to include a Donation section in any type of page, enabling you to receive donations from your audience regardless of the page's primary purpose. Additionally, if you choose to create a page using the Donation type, you can personalize the sections you want to add to tailor the content to your specific needs.
+QRLynk offers various types of QRLynks that can be monetized, including Donation QR codes and upcoming features like Send Me Money and Fundraising QR codes. With QRLynk's Mobile-optimized Pages, you have the flexibility to include a Donation section on any type of page, enabling you to receive donations from your audience regardless of the page's primary purpose. Additionally, if you choose to create a page using the Donation type, you can personalize the sections you want to add to tailor the content to your specific needs.
 
-#### How do I get paid from QRLynk's monetization features?
+#### How do I get paid for QRLynk's monetization features?
 
 To receive payments from QRLynk's monetization features, you can connect your QRLynk account with Stripe, a secure and popular payment gateway. With the Stripe integration, you can receive payments instantly and conveniently manage your balance directly from your Stripe account. QRLynk provides a user-friendly dashboard that allows you to monitor and track your payments, giving you full visibility into your earnings and transaction history. This ensures a seamless and efficient payment process while providing you with valuable insights into your monetization efforts.
 
@@ -96,11 +96,11 @@ Our QRLynk offerings encompass a variety of items embedded with QR codes that se
 
 #### Where can I find and purchase QRLynk items?
 
-QRLynk items are available for purchase on reputable online marketplaces such as [Amazon](https://www.amazon.com/stores/page/FF316102-847A-40BA-811F-53F2C7434A83) and [Etsy](https://qrlynk.etsy.com/). To explore our diverse range of items, simply visit the [Shop section](https://theqr.link/products) on our landing page and follow the provided links.
+QRLynk items are available for purchase on reputable online marketplaces such as [Amazon](https://www.amazon.com/stores/page/FF316102-847A-40BA-811F-53F2C7434A83) and [Etsy](https://www.etsy.com/shop/qrlynk). To explore our diverse range of items, simply visit the [Shop section](https://shop.theqr.link/) on our landing page and follow the provided links.
 
 #### Are subscription plans required for using QRLynk products from our shop?
 
-No, there is no need for a subscription plan when utilizing QRLynk items available in our shop. These products, obtained through Amazon or Etsy, include QR codes that are managed free of charge on our platform and directly link to optimized mobile pages. You can create and customize these pages from our platform without any additional subscription fees.
+No, there is no need for a subscription plan when utilizing QRLynk items available in our shop. These products, obtained through Amazon or Etsy, include QR codes that are managed free of charge on our platform and directly linked to optimized mobile pages. You can create and customize these pages from our platform without any additional subscription fees.
 
 ### Troubleshooting and Support
 
