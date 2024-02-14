@@ -6,7 +6,7 @@ slug: /
 
 Welcome to **QRLynk**, your go-to platform for effortlessly creating and customizing Mobile-optimized pages linked to QR codes in just a few simple steps, all in less than 15 minutes.
 
-[QRLynk](https://www.theqr.link/) is a powerful feature of [Ebanux Marketplace](https://www.ebanux.com/) that streamlines the creation of Mobile-optimized pages linked to QR codes. You can access it at [https://app.theqr.link](https://app.theqr.link).
+[QRLynk](https://web.a-qr.link/) is a powerful solution that streamlines the creation of Mobile-optimized pages linked to QR codes. You can access it directly at [https://app.a-qr.link](https://app.a-qr.link/).
 
 ![Main View 01](https://github.com/ebanux/qrco-docs/assets/54523080/c2dca115-51e6-4145-907f-601736e411ab)
 
