@@ -121,6 +121,21 @@ This Agreement, together with the Privacy Policy and any other legal notices pub
 
 * Typographical Errors. In the event the Solution has listed a product and/or service at an incorrect price or with incorrect information due to a typographical error, we shall have the right to refuse or cancel any orders placed for the product and/or service listed at the incorrect price. We shall have the right to refuse or cancel any such order whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, we shall immediately issue a credit to your credit card account or other payment account in the amount of the charge.
 
+## Return & Replacement Policy for Physical Products
+
+We do **not accept returns or exchanges** for physical products such as NFC stands, wristbands, or other tangible items. All sales are final.
+
+However, if your item arrives **damaged or defective**, you may contact us within **7 days of delivery** for support. With valid proof of purchase (e.g., receipt or order confirmation), we may issue a **replacement item at no additional cost**.
+
+**Please note:**
+
+- This policy applies **only to purchases made directly through QRLynk**.
+- Items purchased through **third-party platforms** (e.g., Amazon, Etsy) are subject to their respective return and replacement policies.
+- To request assistance, email us at [info@ebanux.com](mailto:info@ebanux.com) with your order details and a description or photo of the issue.
+
+We are committed to resolving product issues and ensuring customer satisfaction within reasonable limits.
+
+
 ### **NOTICES**
 
 * Changes to these Terms. As our service grows and improves, we might have to make changes to these Terms. We will do this by uploading the latest version with a date confirming when they went live. If you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can request to delete your account by contacting us at **[info@ebanux.com](mailto:info@ebanux.com)**.
