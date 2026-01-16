@@ -7,13 +7,13 @@ Delaware, USA
 
 Last updated: February 13, 2024
 
-## **Terms of Service**
+## **Terms of Service and Privacy**
 
 ### **PLEASE READ THESE TERMS AND CONDITIONS (“Terms”) CAREFULLY BEFORE USING THIS SOLUTION**
 
 Welcome to QRLynk, a product provided by Ebanux Inc. ("Ebanux"). By accessing or using our QRLynk solution ("Solution"), you agree to comply with and be bound by the following Terms of Service ("Terms"). 
 
-The websites located at https://app.a-qr.link/ (the “Site”) and https://web.a-qr.link/ both part of the Solution is a copyrighted work belonging to Ebanux Inc. (“Company”, “us”, “our”, and “we”).  Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.  All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
+The websites located at https://app.a-qr.link/ (the “Site”) and https://web.a-qr.link/ are both part of the Solution is a copyrighted works belonging to Ebanux Inc. (“Company”, “us”, “our”, and “we”).  Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.  All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
 
 If you have any questions about these Terms, please get in touch with us at **[info@ebanux.com](mailto:info@ebanux.com)**.
 
@@ -24,11 +24,11 @@ Where you are not a consumer, you confirm that you have the authority to bind th
 ### **ACCOUNT CREATION AND SECURITY**
 
 * You must create an account to use our Solution. When you register for an account on our Solution you must ensure that all information you provide to us is accurate and kept up to date. Upon registration, we grant to you the personal, non-transferable right to use the Solution for your own internal business purposes, until terminated as set out in these Terms.
-* You must keep your account details safe. Any piece of information as part of our security procedures including your username and password must be treated as confidential. We have the right to disable any user identification code or password at any time. If you know or suspect that anyone, other than you, knows your user identification code or password, you must promptly notify us at [info@ebanux.com](mailto:info@ebanux.com).
-* The required information provided when filling in the registration form available on the Solution (such as your name, email address, telephone number, your means of payment, i.e. credit card.) must be accurate, complete, and regularly updated.
+* You must keep your account details safe. Any piece of information, as part of our security procedures, including your username and password, must be treated as confidential. We have the right to disable any user identification code or password at any time. If you know or suspect that anyone, other than you, knows your user identification code or password, you must promptly notify us at [info@ebanux.com](mailto:info@ebanux.com).
+* The required information provided when filling in the registration form available on the Solution (such as your name, email address, telephone number, your means of payment, i.e., credit card) must be accurate, complete, and regularly updated.
 * You can change the information you have entered or terminate your User Account at any time and without condition, by going to the Solution and following the procedure provided for this purpose, and you can also notify us at [info@ebanux.com](mailto:info@ebanux.com).
-* These terms are binding. By using our Solution and downloading any of our Website Content you acknowledge that these terms will apply and you have the legal capacity to enter into contracts in the country you live. You also confirm that when acting on behalf of a business you have the authority to bind them to these terms. If this is not the case, you should not use our Solution.
-* Third-party subscriptions. Some features of our Solution require you to have a paid subscription with third parties. These fees are separate from any monies paid to us, and you must create these accounts subject to any third-party provider’s terms.
+* These terms are binding. By using our Solution and downloading any of our Website Content, you acknowledge that these terms will apply and you have the legal capacity to enter into contracts in the country you live in. You also confirm that when acting on behalf of a business, you have the authority to bind them to these terms. If this is not the case, you should not use our Solution.
+* Third-party subscriptions. Some features of our Solution require you to have a paid subscription with third parties. These fees are separate from any monies paid to us, and you must create these accounts, subject to any third-party provider’s terms.
 
 ### **OUR WORKFLOW PLATFORM**
 
@@ -38,7 +38,7 @@ Where you are not a consumer, you confirm that you have the authority to bind th
 
 You are also responsible for ensuring that all persons who access our Solution through your internet connection are aware of and comply with these Terms.
 
-* What action we may take in the event of a breach? When we consider that a breach of these Terms has occurred, we may take such action as we deem appropriate including
+* What action may be taken in the event of a breach? When we consider that a breach of these Terms has occurred, we may take such action as we deem appropriate, including
   * immediate, temporary, or permanent withdrawal of your right to use our Solution;
   * immediate, temporary, or permanent removal of any User Content uploaded by you to our Solution;
   * legal action against you; and/or
@@ -48,12 +48,12 @@ You are also responsible for ensuring that all persons who access our Solution t
 
 ### **USER CONTENT**
 
-* User Content. “User Content” means any and all information and content that a user submits to, or uses with, the Site (e.g., content in the user’s profile or postings).  You are solely responsible for your User Content.  You assume all risks associated with the use of your User Content, including any reliance on its accuracy, completeness, or usefulness by others, or any disclosure of your User Content that personally identifies you or any third party.  You hereby represent and warrant that your User Content does not violate our Acceptable Use Policy (defined in Section 3.3).  You may not represent or imply to others that your User Content is in any way provided, sponsored, or endorsed by the Solution.  Since you alone are responsible for your User Content, you may expose yourself to liability if, for example, your User Content violates the Acceptable Use Policy.  Ebanux Inc. and the Solution are not obligated to backup any User Content, and your User Content may be deleted at any time without prior notice.  You are solely responsible for creating and maintaining your own backup copies of your User Content if you desire.
+* User Content. “User Content” means any information and content that a user submits to, or uses with, the Site (e.g., content in the user’s profile or postings).  You are solely responsible for your User Content.  You assume all risks associated with the use of your User Content, including any reliance on its accuracy, completeness, or usefulness by others, or any disclosure of your User Content that personally identifies you or any third party.  You hereby represent and warrant that your User Content does not violate our Acceptable Use Policy (defined in Section 3.3).  You may not represent or imply to others that your User Content is in any way provided, sponsored, or endorsed by the Solution.  Since you alone are responsible for your User Content, you may expose yourself to liability if, for example, your User Content violates the Acceptable Use Policy.  Ebanux Inc. and the Solution are not obligated to back up any User Content, and your User Content may be deleted at any time without prior notice.  You are solely responsible for creating and maintaining your own backup copies of your User Content if you desire.
   
-* License.  You hereby grant (and you represent and warrant that you have the right to grant) to the Solution an irrevocable, nonexclusive, royalty-free, and fully paid, worldwide license to reproduce, distribute, publicly display and perform, prepare derivative works of, incorporate into other works, and otherwise use and exploit your User Content, and to grant sublicenses of the foregoing rights, solely for the purposes of including your User Content in the Site.  You hereby irrevocably waive (and agree to cause to be waived) any claims and assertions of moral rights or attribution with respect to your User Content.
+* License.  You hereby grant (and you represent and warrant that you have the right to grant) to the Solution an irrevocable, nonexclusive, royalty-free, and fully paid, worldwide license to reproduce, distribute, publicly display and perform, prepare derivative works of, incorporate into other works, and otherwise use and exploit your User Content, and to grant sublicenses of the foregoing rights, solely for including your User Content in the Site.  You hereby irrevocably waive (and agree to cause to be waived) any claims and assertions of moral rights or attribution with respect to your User Content.
 
 * Acceptable Use Policy.  The following terms constitute our “Acceptable Use Policy”:
-You agree not to use the Site to collect, upload, transmit, display, or distribute any User Content (i) that violates any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right, (ii) that is unlawful, harassing, abusive, tortious, threatening, harmful, invasive of another’s privacy, vulgar, defamatory, false, intentionally misleading, trade libelous, pornographic, obscene, patently offensive, promotes racism, bigotry, hatred, or physical harm of any kind against any group or individual or is otherwise objectionable, (iii) that is harmful to minors in any way, or (iv) that is in violation of any law, regulation, or obligations or restrictions imposed by any third party.
+You agree not to use the Site to collect, upload, transmit, display, or distribute any User Content (i) that violates any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right, (ii) that is unlawful, harassing, abusive, tortious, threatening, harmful, invasive of another’s privacy, vulgar, defamatory, false, intentionally misleading, trade libelous, pornographic, obscene, patently offensive, promotes racism, bigotry, hatred, or physical harm of any kind against any group or individual or is otherwise objectionable, (iii) that is harmful to minors in any way, or (iv) that violates any law, regulation, or obligations or restrictions imposed by any third party.
 
 In addition, you agree not to: (i) upload, transmit, or distribute to or through the Site any computer viruses, worms, or any software intended to damage or alter a computer system or data; (ii) send through the Site unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of duplicative or unsolicited messages, whether commercial or otherwise; (iii)  use the Site to harvest, collect, gather or assemble information or data regarding other users, including e-mail addresses, without their consent; (iv) interfere with, disrupt, or create an undue burden on servers or networks connected to the Site, or violate the regulations, policies or procedures of such networks; (v) attempt to gain unauthorized access to the Site (or to other computer systems or networks connected to or used together with the Site), whether through password mining or any other means; (vi) harass or interfere with any other user’s use and enjoyment of the Site; or (vi) use software or automated agents or scripts to produce multiple accounts on the Site, or to generate automated searches, requests, or queries to (or to strip, scrape, or mine data from) the Site (provided, however, that we conditionally grant to the operators of public search engines revocable permission to use spiders to copy materials from the Site for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials, subject to the parameters set forth in our robots.txt file).
 
@@ -121,7 +121,7 @@ This Agreement, together with the Privacy Policy and any other legal notices pub
 
 * Typographical Errors. In the event the Solution has listed a product and/or service at an incorrect price or with incorrect information due to a typographical error, we shall have the right to refuse or cancel any orders placed for the product and/or service listed at the incorrect price. We shall have the right to refuse or cancel any such order whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, we shall immediately issue a credit to your credit card account or other payment account in the amount of the charge.
 
-## Return & Replacement Policy for Physical Products
+### **RETURN OR REPLACEMENT PRODUCTS**
 
 We do **not accept returns or exchanges** for physical products such as NFC stands, wristbands, or other tangible items. All sales are final.
 
@@ -134,6 +134,58 @@ However, if your item arrives **damaged or defective**, you may contact us withi
 - To request assistance, email us at [info@ebanux.com](mailto:info@ebanux.com) with your order details and a description or photo of the issue.
 
 We are committed to resolving product issues and ensuring customer satisfaction within reasonable limits.
+
+## **PRIVACY**
+### Google User Data Access & Usage (QRLynk)
+
+#### 1) Data Accessed (Google User Data)
+QRLynk may access the following Google user data **only when you choose to sign in with Google** and grant permission through the Google OAuth consent screen:
+
+##### A. Basic Google Account Information
+- **Email address** (to identify your account and enable login)
+- **Name / display name** (to personalize your account experience)
+- **Profile photo / avatar (if available)** (to display in the user interface)
+
+##### B. Google OAuth Authentication Data
+- **OAuth access token** (used to authenticate your session and validate authorized access)
+- **OAuth refresh token (if issued)** (used to maintain your login session without requiring repeated sign-in)
+
+> QRLynk does **not** request or access your Google password.
+
+##### C. Additional Google Data (Only If Enabled in the Future)
+If QRLynk requests additional Google API scopes in the future (example: Google Drive, Gmail, Calendar), we will update this Privacy Policy to clearly list:
+- the exact data accessed, and  
+- the purpose for accessing it.
+
+---
+
+#### 2) Data Usage (How QRLynk Uses Google User Data)
+QRLynk uses Google user data **strictly to provide authentication and core account functionality**, including:
+
+##### A. Account Authentication & Login
+We use your Google account information to:
+- create or link your QRLynk user account
+- allow secure login using Google Sign-In (OAuth 2.0)
+- prevent unauthorized access and fraud
+
+##### B. Account Identification & Personalization
+We use your basic profile data (name/photo/email) to:
+- display your account identity inside the QRLynk dashboard
+- personalize the user experience (example: showing your name in settings)
+
+##### C. Service Operations
+We may use your email address to:
+- send important account-related messages (example: verification, security alerts, critical service notices)
+- provide support and respond to your requests
+
+##### D. Storage, Processing, and Handling
+- Google user data is processed securely and only for the purposes described above.
+- OAuth tokens (if stored) are stored securely and are used only to maintain authorized access for login/session purposes.
+- We do **not** use Google user data for advertising profiling.
+- We do **not** sell Google user data.
+
+##### E. Limited Use Commitment
+QRLynk’s use of Google user data is limited to what is necessary to provide the user-facing functionality of the application and is handled in compliance with Google API Services User Data Policy.
 
 
 ### **NOTICES**
